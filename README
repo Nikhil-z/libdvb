@@ -1,0 +1,89 @@
+LIBDVB - DVB library for SI parsing, OSD, tuning, ...
+
+There are 8 example programs that show how to work with the library. 
+You can also look at the tuxzap package for further usage
+information. 
+
+conv
+converts from one of the various input formats (xml, satcodx, nokia)
+to the libdvb format.
+
+satscan
+shows how to scan the transponders of a satellite for new channels.
+It will scan all the transpnders it reads from a dvbrc file.
+
+quickscan
+scans the currently tuned transponder
+
+cam_test
+can tune channels from a given or default dvbrc, communicate with
+cam_set to use the CAM, output a TS or PS and videotext information,
+see -h option for details.
+
+cam_set
+is a server like program to communicate with the cam. It uses sockets
+to receive commands from and transfer data to other programs like
+cam_test and cam_menu 
+
+cam_menu
+is an example on how to query menus from cam_set
+
+status_check
+gives a quick view of the tuning status
+
+merge
+will merge dvbrc files and eliminate duplicate channels.
+
+
+I added the ci stack from the vdr program and put it into a separate
+library. There is also a test program for running the ci handler and a
+program that calls the handler program. (cam_set, cam_test)
+
+
+To build the libs and programs just type make.
+
+
+DVBRC format
+The dvbrc format has entries for Satellites, LNBs, transponders and
+channels. The configuration for one transponder on Astra (19deg E)
+using an universal LNB is:
+
+LNB ID 0 TYPE 1  LOF1 9750000 LOF2 10600000 SLOF 11700000 DISEQCNR 0
+  SAT ID 192 NAME "Astra" LNBID 0 FMIN 10700000 FMAX 12700000
+    TRANSPONDER ID 0018 TSID 04d5 SATID 0192 TYPE 0 FREQ 11568000 POL V SRATE 22      
+	CHANNEL ID 0 NAME "Al Jazeera" SATID 192 TPID 18 SID 233d TYPE 0 VPID 37 APID 38 TTPID 1496 PCRPID 37
+
+
+The ID tags for LNB, SAT, TRANSPONDER and CHANNEL are more or less
+arbitrary, you just have to know them so that the channel can be
+connected to a Transponder via the TSID tag, a transponder can be
+connected to a satellite via the SATID tag and the satellite can be
+connected to the LNB via the LNBID tag.
+The other tags have the following meaning:
+LNB: 
+	TYPE		not used at the moment
+	LOF1 LNB 	offset 1
+	LOF2 LNB 	offset 2
+	SLOF 		switching frequency for offset
+	DISEQNR 	diseqc number of LNB 
+
+SAT:
+	NAME            Name of the Satellite
+	LNBID		ID of the LNB pointing to the satellite
+	FMIN		minimum transponder frequency
+	FMAX		maximum transponder frequency
+
+TRANSPONDER:
+	TSID		
+	SATID		ID of the satellite the transponder is on
+	TYPE		0 for satellite, 1 for cable, 2 for terrestial
+	FREQ		transponder frequency
+	POL		polarisation (V or H)
+	SRATE		symbol rate
+
+CHANNEL:
+	NAME		channel name
+
+
+For questions mail to mocm@metzlerbros.de
+

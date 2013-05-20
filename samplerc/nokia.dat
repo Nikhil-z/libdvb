@@ -1,0 +1,2071 @@
+:SAT "Astra" 19.2 E
+:NET "Canal Satélite Digital" 1
+:TRP 1074 1189500 275000 1 V 0 3/4
+:CHN "Canal Satélite Digital Mosaic" 65280 T 160 80 8191
+:CHN "Hit List" 29461 R
+:SAT "Astra" 19.2 E
+:NET "Premiere World" 133
+:TRP 3 1172000 275000 133 H 0 3/4
+:CHN "Premiere Sport 1" 17 T
+:CHN "Cinedom 1C" 180 T
+:CHN "Cinedom 4A" 181 T
+:CHN "Cinedom 3B" 182 T
+:CHN "Cinedom 2B" 183 T
+:CHN "Cinedom 1A" 176 T
+:CHN "Cinedom 5A" 177 T
+:CHN "Superdom 2" 240 T
+:CHN "Superdom 4" 242 T
+:CHN "Champions League 3" 241 T
+:CHN "Champions League 4" 242 T
+:CHN "Superdom 6" 244 T
+:CHN "Champions League 5" 243 T
+:CHN "F1 Info" 244 T
+:CHN "Superdom 3" 241 T
+:CHN "Superdom 5" 243 T
+:CHN "Klassik Populär" 145 R
+:CHN "Klassik Symphonien" 146 R
+:CHN "Opern + Vokalmusic" 147 R
+:CHN "Barockmusik" 148 R
+:CHN "Jazz" 149 R
+:CHN "Hitliste" 150 R
+:NET "Premiere World" 133
+:TRP 17 1175800 275000 133 H 0 3/4
+:CHN "Cinedom Deluxe" 189 T
+:CHN "Cinedom 1D" 190 T
+:CHN "Cinedom 4C" 191 T
+:CHN "Cinedom 2E" 193 T
+:CHN "Cinedom 5C" 194 T
+:CHN "Cinedom 3D" 195 T
+:CHN "Blue Movie 1" 513 T
+:CHN "Blue Movie 2" 514 T
+:CHN "Blue Movie 3" 515 T
+:CHN "Cinedom 3C" 192 T
+:CHN "Superdom Info" 18 T
+:CHN "Superdom 7" 214 T
+:CHN "Bundesliga Konferenz" 215 T
+:CHN "Beate-Uhse TV" 21 T
+:CHN "Hundert.6" 161 R
+:CHN "Radio GoldStar" 171 R
+:NET "Premiere World" 133
+:TRP 2 1179800 275000 133 H 0 3/4
+:CHN "Premiere World promo" 8 T
+:CHN "Premiere Movie 1" 10 T
+:CHN "Premiere Star" 9 T
+:CHN "Premiere Action" 20 T
+:CHN "Premiere Comedy" 29 T
+:CHN "Premiere Sci-Fi" 41 T
+:CHN "Premiere Movie 2" 11 T
+:CHN "Premiere X-Action" 50 T
+:CHN "Premiere Movie 3" 43 T
+:CHN "Old Gold" 165 R
+:CHN "Schlager" 166 R
+:CHN "Volksmusik" 167 R
+:CHN "Love Songs" 163 R
+:CHN "Musicals" 164 R
+:CHN "Easy Listening" 162 R
+:NET "Canal Satélite Digital" 1
+:TRP 1076 1193400 275000 1 V 0 3/4
+:CHN "40 Latino" 29031 T
+:CHN "Cine Classics" 29039 T
+:CHN "Andalucía TV" 29011 T
+:CHN "Canal + ...30" 29024 T
+:CHN "Fox News Channel" 29032 T
+:CHN "Méteo" 29014 T
+:CHN "National Geographic Channel" 29034 T
+:CHN "Real Madrid TV" 29019 T
+:CHN "CNN +" 29020 T
+:CHN "EuroSport News" 29037 T
+:CHN "Los 40 Principales" 29015 R
+:NET "Canal Satélite Digital" 1
+:TRP 1078 1197300 275000 1 V 0 3/4
+:CHN "Canal + España" 29100 T
+:CHN "Canal + Azul" 29101 T
+:CHN "Canal + Rojo" 29102 T
+:CHN "The Disney Channel" 29111 T
+:CHN "Sportmanía" 29104 T
+:CHN "40 TV" 29110 T
+:CHN "Discovery Channel España" 29116 T
+:CHN "Fashion TV" 29115 T
+:CHN "Pop-Rock" 29106 R
+:NET "Premiere World" 133
+:TRP 4 1203200 275000 133 H 0 3/4
+:CHN "K-Toon" 12 T
+:CHN "Classica" 15 T
+:CHN "Sunset" 16 T
+:CHN "Fox Kids Deutschland" 28 T
+:CHN "Krimi & Co." 23 T
+:CHN "Discovery Channel Deutschland" 14 T
+:CHN "13th Street" 42 T
+:CHN "Filmpalast" 516 T
+:CHN "Heimatkanal" 517 T
+:CHN "Premiere One" 51 T
+:CHN "GoldStar TV" 518 T
+:CHN "Country" 153 R
+:CHN "Film Music" 155 R
+:CHN "Soul Classics" 157 R
+:CHN "Classic Rock" 154 R
+:CHN "Türk Müsigi" 158 R
+:CHN "Gold" 159 R
+:CHN "Deutsche Hits" 156 R
+:CHN "Alternative Rock" 151 R
+:CHN "Dance" 152 R
+:NET "Canal Satélite Digital" 1
+:TRP 1092 1224600 275000 1 V 0 3/4
+:CHN "Cartoon Network Spain" 29314 T
+:CHN "Taquilla 6" 29301 T
+:CHN "Taquilla 7" 29302 T
+:CHN "Taquilla 8" 29303 T
+:CHN "EuroSport" 29310 T
+:CHN "E!stilo" 29305 T
+:CHN "Viajar" 29306 T
+:CHN "Nickelodeon" 29312 T
+:CHN "Seasons España" 29317 T
+:CHN "Taquilla 9" 29318 T
+:NET "Canal Satélite Digital" 1
+:TRP 1094 1228500 275000 1 V 0 3/4
+:CHN "Documanía" 29200 T
+:CHN "Fox Kids España" 29209 T
+:CHN "CNBC Europe" 29202 T
+:CHN "Cine Classics" 29203 T
+:CHN "Taquilla 1" 29206 T
+:CHN "Taquilla 2" 29207 T
+:CHN "Taquilla X" 29213 T
+:CHN "The Disney Channel +1 promo" 29214 T
+:CHN "Playhouse Disney promo" 29215 T
+:CHN "Toon Disney promo" 29216 T
+:NET "Canal Satélite Digital" 1
+:TRP 1102 1244100 275000 1 V 0 3/4
+:CHN "TVC Internacional" 29701 T
+:CHN "Canal Canarias" 29700 T
+:CHN "Andalucía TV" 29702 T
+:CHN "ETB Sat" 29703 T
+:CHN "TeleMadrid Sat" 29704 T
+:CHN "Fashion TV" 29705 T
+:CHN "Taquilla 0" 29706 T
+:NET "No Zap" 1
+:TRP 1103 1246000 275000 1 H 0 3/4
+:CHN "No Zap" 12000 T
+:SAT "Astra" 19.2 E
+:NET "CanalSatellite France" 1
+:TRP 1066 1173900 275000 1 V 0 3/4
+:CHN "Ciné Cinémas 16:9" 8301 T
+:CHN "MCM France" 8302 T
+:CHN "Club Téléachat" 8303 T
+:CHN "KTO - TV Catholique" 8304 T
+:CHN "MCM 2" 8305 T
+:CHN "MCM Africa" 8307 T
+:CHN "Allo Ciné TV" 8308 T
+:CHN "TiJi" 8309 T
+:CHN "National Geographic Channel France" 8310 T
+:NET "CanalSatellite France" 1
+:TRP 1068 1177800 275000 1 V 0 3/4
+:CHN "EuroSport France" 8101 T
+:CHN "Monte Carlo TMC" 8102 T
+:CHN "Planète" 8103 T
+:CHN "Paris Première" 8104 T
+:CHN "Voyage" 8105 T
+:CHN "Cuisine.TV" 8112 T
+:CHN "LCI - La Chaîne Info" 8107 T
+:CHN "Canal J" 8108 T
+:CHN "Santé Vie" 8110 T
+:NET "CanalSatellite France" 1
+:TRP 1070 1181700 275000 1 V 0 3/4
+:CHN "Seasons" 8001 T
+:CHN "Ciné Cinémas 2" 8002 T
+:CHN "Ciné Cinémas 3" 8003 T
+:CHN "Bloomberg TV France" 8004 T
+:CHN "Canal Jimmy" 8006 T
+:CHN "Muzzik" 8007 T
+:CHN "La Chaîne Météo" 8008 T
+:CHN "Pathé Sport" 8009 T
+:CHN "I TV" 8010 T
+:CHN "Muzzik" 8012 T
+:NET "ARD Digital" 1
+:TRP 1101 1183600 275000 1 H 0 3/4
+:CHN "ARD Das Erste" 28106 T
+:CHN "Bayerisches Fernsehen" 28107 T
+:CHN "Hessen Fernsehen" 28108 T
+:CHN "Arte Deutsch" 28109 T
+:CHN "SR Fernsehen Südwest" 28110 T
+:CHN "WDR" 28111 T
+:CHN "BR Alpha" 28112 T
+:CHN "Südwest Fernsehen Baden-Württemberg" 28113 T
+:CHN "Phoenix" 28114 T
+:CHN "Bayern 4 Klassik" 28120 R
+:CHN "B5 Aktuell" 28121 R
+:CHN "HR Chronos" 28122 R
+:CHN "HR 2" 28123 R
+:CHN "HR Klassik" 28124 R
+:CHN "HR XXL" 28125 R
+:CHN "Bayern 1" 28126 R
+:CHN "NDR 4 Info" 28127 R
+:CHN "NordwestRadio" 28128 R
+:CHN "SR 1 Europawelle" 28129 R
+:NET "CanalSatellite France" 1
+:TRP 1072 1185600 275000 1 V 0 3/4
+:CHN "Canal + " 8201 T
+:CHN "Canal + Bleu" 8202 T
+:CHN "Canal + Jaune" 8203 T
+:CHN "Canal + 16:9" 8204 T
+:CHN "Ciné Cinémas 1" 8206 T
+:CHN "The Disney Channel" 8207 T
+:CHN "Canal + Vert" 8208 T
+:CHN "Equidia" 8209 T
+:NET "UPC Direct" 1
+:TRP 1273 1187600 275000 1 H 0 3/4
+:CHN "RTL 7" 20600 T
+:CHN "TV Puls" 20601 T
+:CHN "MTV Polska" 20602 T
+:CHN "Extreme Sports Channel" 20603 T
+:CHN "TVN" 20604 T
+:CHN "HBO Czechia" 20605 T
+:CHN "MTV European" 20606 T
+:CHN "Spektrum International" 20607 T
+:CHN "TV 3 Praha" 20608 T
+:CHN "Wizja Le Cinema" 20610 T
+:CHN "Magyar 2" 20611 T
+:CHN "RMF FM" 20612 R
+:CHN "Radio Caroline" 20613 R
+:NET "ZDF Vision" 1
+:TRP 1079 1195400 275000 1 H 0 3/4
+:CHN "ZDF" 28006 T
+:CHN "3 Sat" 28007 T
+:CHN "KI.KA" 28008 T
+:CHN "EuroSport" 28009 T
+:CHN "CNBC Europe" 28010 T
+:CHN "ZDF Info" 28011 T
+:CHN "ZDF Doku" 28014 T
+:CHN "ZDF Theaterkanal" 28016 T
+:CHN "EuroNews" 28015 T
+:CHN "Radio Österreich 1" 28017 R
+:CHN "DeutschlandRadio Berlin" 28012 R
+:CHN "Deutschlandfunk" 28013 R
+:NET "UPC Direct" 1
+:TRP 1279 1199200 275000 1 H 0 3/4
+:CHN "EuroSport" 20360 T
+:CHN "[Wizja info card]" 20361 T
+:CHN "Avante" 20362 T
+:CHN "Animal Planet Europe" 20363 T
+:CHN "Super 1" 20364 T
+:CHN "TV 4" 20365 T
+:CHN "Polonia 1" 20366 T
+:CHN "Private Gold" 20367 T
+:CHN "TVP 2" 20368 T
+:CHN "Wizja Sport" 20369 T
+:CHN "Discovery Channel Czechia" 20372 T
+:CHN "Hallmark Channel Czechia" 20373 T
+:CHN "Radio Zet" 20370 R
+:CHN "Radio Flash FM" 20371 R
+:NET "CanalSatellite France" 1
+:TRP 1080 1201200 275000 1 V 0 3/4
+:CHN "France 2" 8801 T
+:CHN "France 3 Sat" 8802 T
+:CHN "Star Academy" 8803 T
+:CHN "Contact TV" 8804 T
+:CHN "Canal Club" 8812 T
+:NET "ARD Digital" 1
+:TRP 1073 1211000 275000 1 H 0 3/4
+:CHN "Eins Extra" 28201 T
+:CHN "Eins Festival" 28202 T
+:CHN "Eins MuXx" 28203 T
+:CHN "MDR" 28204 T
+:CHN "ORB" 28205 T
+:CHN "B 1" 28206 T
+:CHN "N 3" 28224 T
+:CHN "Südwest Fernsehen Rheinland-Pfalz" 28231 T
+:CHN "NDR Radio 3" 28207 R
+:CHN "MDR Kultur" 28208 R
+:CHN "Fritz" 28209 R
+:CHN "Jump" 28210 R
+:CHN "MDR Info" 28211 R
+:CHN "Sputnik" 28212 R
+:CHN "SFB 4 MultiKulti" 28213 R
+:CHN "SWR 2 Baden-Württemberg" 28214 R
+:CHN "WDR 3" 28215 R
+:CHN "WDR 5" 28216 R
+:NET "UPC Direct" 1
+:TRP 1095 1230400 275000 1 H 0 3/4
+:CHN "TVP 1" 20330 T
+:CHN "Hallmark Channel East Europe" 20331 T
+:CHN "Cartoon Network Polska" 20332 T
+:CHN "Fox Kids Polska" 20333 T
+:CHN "HBO Polska" 20334 T
+:CHN "TVN 24" 20336 T
+:CHN "EuroSport News Poland" 20337 T
+:CHN "Sport 1 Hungary" 20339 T
+:CHN "Animal Planet Europe" 20342 T
+:CHN "Animal Planet Czechia" 20343 T
+:CHN "Radio Wawa" 20340 R
+:CHN "Radio Wa-Ma" 20341 R
+:NET "UPC Direct" 1
+:TRP 1099 1238200 275000 1 H 0 3/4
+:CHN "E! Entertainment TV Polska" 20300 T
+:CHN "HBO Hungary" 20301 T
+:CHN "Club" 20302 T
+:CHN "Discovery Channel Polska" 20303 T
+:CHN "National Geographic Channel Polska" 20304 T
+:CHN "Romantica" 20305 T
+:CHN "Fox Kids Central Europe" 20306 T
+:CHN "Nickelodeon Hungary" 20307 T
+:CHN "Wizja Pogoda" 20308 T
+:CHN "Reality TV" 20309 T
+:CHN "Cartoon Network Central Europe" 20310 T
+:CHN "Polskie Radio 1" 20313 R
+:CHN "Polskie Radio 3" 20314 R
+:NET "Canal Digitaal Satelliet" 53
+:TRP 1105 1251500 220000 53 H 0 5/6
+:CHN "Canal + Rood" 4005 T
+:CHN "Canal + Blauw" 4006 T
+:CHN "Nederland 1" 4011 T
+:CHN "Nederland 2" 4012 T
+:CHN "Nederland 3" 4013 T
+:CHN "X-Zone" 4009 T
+:CHN "Canal + 16:9" 4007 T
+:CHN "Ciné Cinémas Nederland & Vlaanderen" 4008 T
+:CHN "Radio 1" 4051 R
+:CHN "Radio 2" 4052 R
+:CHN "Radio 3 FM" 4053 R
+:CHN "Radio 4" 4054 R
+:CHN "747 AM" 4055 R
+:NET "Canal Satélite Digital" 1
+:TRP 1106 1252200 220000 1 V 0 5/6
+:CHN "Cinemanía" 29500 T
+:CHN "Cinemanía Azul" 29501 T
+:CHN "Taquilla 3" 29502 T
+:CHN "Taquilla 4" 29503 T
+:CHN "Taquilla 5" 29504 T
+:CHN "AXN España" 29506 T
+:CHN "Fox España" 29507 T
+:NET " " 1
+:TRP 1108 1255200 220000 1 V 0 5/6
+:CHN "Bloomberg TV Deutschland" 12160 T
+:CHN "Astra Mosaic 5" 3984 T
+:CHN "QVC Germany" 12100 T
+:CHN "Astra Vision" 3997 T
+:CHN "Nordliicht TV" 3994 T
+:CHN "Viva Zwei" 12120 T
+:CHN "Astra Mosaic 1" 3988 T
+:CHN "Astra Mosaic 2" 3987 T
+:CHN "Astra Mosaic 3" 3986 T
+:CHN "Astra Mosaic 4" 3985 T
+:CHN "Sky News" 3995 T
+:NET "Canal Digitaal Satelliet" 53
+:TRP 1109 1257400 220000 53 H 0 5/6
+:CHN "SBS 6" 5005 T
+:CHN "Yorin" 5010 T
+:CHN "TMF Nederland" 5015 T
+:CHN "Fox Kids Netherlands" 5020 T
+:CHN "BVN TV" 5025 T
+:CHN "KinderNet 5" 5004 T
+:CHN "Yorin FM" 5050 R
+:CHN "Kink FM" 5055 R
+:CHN "Radio Nederland Wereldomroep Europa" 5060 R
+:CHN "Radio Nederland Wereldomroep International" 5061 R
+:CHN "Sky Radio" 5070 R
+:CHN "De ConcertZender" 5080 R
+:CHN "Classic FM" 5071 R
+:CHN "Radio 538" 5072 R
+:CHN "Radio 1" 5031 R
+:CHN "Radio 2" 5032 R
+:CHN "Radio 3 FM" 5033 R
+:CHN "Radio 4" 5034 R
+:CHN "747 AM" 5035 R
+:CHN "Radio 10 FM" 5085 R
+:CHN "Love Radio" 5090 R
+:NET "Canal Satélite Digital" 1
+:TRP 1110 1258100 220000 1 V 0 5/6
+:CHN "Taquilla XX" 29607 T
+:CHN "Taquilla XY" 29608 T
+:CHN "Taquilla X" 29602 T
+:CHN "Cinemanía Rojo" 29605 T
+:CHN "Calle 13" 29609 T
+:CHN "Mosaico Taquilla" 29616 T
+:CHN "Mosaico Cine" 29617 T
+:CHN "Mosaico C+" 29614 T
+:CHN "Mosaico Tématicos" 29615 T
+:CHN "Taquilla 10" 29612 T
+:CHN "Taquilla 11" 65280 T 173 132 8191
+:NET " " 1
+:TRP 1116 1267000 220000 1 V 0 5/6
+:CHN "TV Niepokalanów II" 12740 T
+:CHN "N-TV" 12730 T
+:CHN "Viva" 12732 T
+:NET "ORF Digital" 1
+:TRP 1117 1269200 220000 1 H 0 5/6
+:CHN "ORF 1" 13001 T
+:CHN "TW 1" 13013 T
+:CHN "ORF 2" 13002 T
+:CHN "ORF 2 Wien" 13003 T
+:CHN "ORF 2 Niederösterreich" 13004 T
+:CHN "ORF 2 Burgenland" 13005 T
+:CHN "ORF 2 Oberösterreich" 13006 T
+:CHN "ORF 2 Salzburg" 13007 T
+:CHN "ORF 2 Tirol" 13008 T
+:CHN "ORF 2 Vorarlberg" 13009 T
+:CHN "ORF 2 Steiermark" 13010 T
+:CHN "ORF 2 Kärnten" 13011 T
+:CHN "Radio Österreich 1" 13021 R
+:CHN "Hitradio Ö 3" 13033 R
+:CHN "FM 4" 13034 R
+:CHN "Radio Österreich International" 13035 R
+:CHN "Radio Österreich International Sackville" 13037 R
+:CHN "Ö 2 Radio Wien" 13023 R
+:CHN "Ö 2 Radio Niederösterreich" 13024 R
+:CHN "Ö 2 Radio Burgenland" 13025 R
+:CHN "Ö 2 Radio Oberösterreich" 13026 R
+:CHN "Ö 2 Radio Salzburg" 13027 R
+:CHN "Ö 2 Radio Tirol" 13028 R
+:CHN "Ö 2 Radio Vorarlberg" 13029 R
+:CHN "Ö 2 Radio Steiermark" 13030 R
+:CHN "Ö 2 Radio Kärnten" 13031 R
+:NET "MTV Networks" 1
+:TRP 1118 1269900 220000 1 V 0 5/6
+:CHN "MTV España" 28641 T
+:CHN "MTV France" 28642 T
+:CHN "MTV Germany" 28643 T
+:CHN "MTV Hits" 28644 T
+:CHN "MTV Base" 28645 T
+:CHN "VH 1 European" 28646 T
+:CHN "VH 1 Classic Smooth" 28647 T
+:CHN "MTV 2 Pop" 28648 T
+:CHN "MTV 2 Europe" 28649 T
+:SAT "Astra" 19.2 E
+:NET "Premiere World" 133
+:TRP 6 1191400 275000 133 H 0 3/4
+:CHN "N 24" 52 T
+:CHN "Sky News" 53 T
+:CHN "Fox Kids Turkey" 54 T
+:CHN "Fox News Channel" 55 T
+:CHN "Premiere Partner TV" 56 T
+:NET " " 1
+:TRP 1082 1205100 275000 1 V 0 3/4
+:CHN "Pro Sieben Österreich" 20002 T
+:CHN "Kabel 1 Schweiz" 20003 T
+:CHN "Kabel 1 Österreich" 20004 T
+:CHN "Pro Sieben Schweiz" 20001 T
+:CHN "Popular Classical" 20101 R
+:CHN "Symphonic" 20102 R
+:CHN "Opera" 20103 R
+:CHN "Modern Country" 20104 R
+:CHN "Traditional Country" 20105 R
+:CHN "Beautiful Instruments" 20106 R
+:CHN "New Age" 20107 R
+:CHN "Euro Hits" 20108 R
+:CHN "French Hits" 20109 R
+:CHN "German Folk" 20110 R
+:CHN "German Rock" 20111 R
+:CHN "German Schlager" 20112 R
+:CHN "German Hits" 20113 R
+:CHN "Italian Contemporary" 20114 R
+:CHN "UK Hits" 20115 R
+:CHN "Indian Pop" 20116 R
+:CHN "Turkish Pop" 20117 R
+:CHN "Dutch Hits" 20118 R
+:CHN "Acid Jazz" 20119 R
+:CHN "Contemporary Jazz" 20120 R
+:CHN "Classic Jazz" 20121 R
+:CHN "Smooth Jazz" 20122 R
+:CHN "Brazil Carnival" 20123 R
+:CHN "Latin Contemporary" 20124 R
+:CHN "Salsa" 20125 R
+:CHN "Rock en Español" 20126 R
+:CHN "Rock'n'Roll Oldies" 20127 R
+:CHN "70's Hits" 20128 R
+:CHN "80's Hits" 20129 R
+:CHN "90's Hits" 20130 R
+:CHN "Great Standards" 20131 R
+:CHN "Big Band/Swing" 20132 R
+:CHN "Classic Rock" 20133 R
+:CHN "Metal" 20134 R
+:CHN "Alternative" 20135 R
+:CHN "Dance" 20136 R
+:CHN "Retro Dance" 20137 R
+:CHN "Trends" 20138 R
+:CHN "Contemporary Pop" 20139 R
+:CHN "Hottest Hits" 20140 R
+:CHN "Love Songs" 20141 R
+:CHN "Power Hits" 20142 R
+:CHN "Blues" 20143 R
+:CHN "Classic R&B" 20144 R
+:CHN "R&B/Hip Hop" 20145 R
+:CHN "Reggae" 20146 R
+:CHN "Rap" 20147 R
+:NET "Premiere World" 133
+:TRP 5 1207000 275000 133 H 0 3/4
+:CHN "Premiere Sport 3" 26 T
+:CHN "Cinedom 2C" 184 T
+:CHN "Cinedom 3A" 185 T
+:CHN "Cinedom 5B" 186 T
+:CHN "Cinedom 2D" 188 T
+:CHN "Cinedom 1B" 178 T
+:CHN "Cinedom 2A" 179 T
+:CHN "Cinedom 4B" 187 T
+:CHN "Champions League 8" 210 T
+:CHN "Champions League 6" 208 T
+:CHN "Champions League 7" 209 T
+:CHN "Champions League 10" 211 T
+:CHN "Premiere Sport 2" 27 T
+:NET "Premiere World" 133
+:TRP 65028 1209000 275000 133 V 0 3/4
+:CHN "Studio Universal" 36 T
+:CHN "The Disney Channel Germany" 34 T
+:CHN "Planet" 13 T
+:NET "CanalSatellite France" 1
+:TRP 1086 1212900 275000 1 V 0 3/4
+:CHN "Kiosque 1" 8401 T
+:CHN "Kiosque 2" 8402 T
+:CHN "Kiosque 3" 8403 T
+:CHN "Kiosque 4" 8404 T
+:CHN "Kiosque 5" 8405 T
+:CHN "Kiosque 6" 8406 T
+:CHN "Kiosque 7" 8407 T
+:CHN "Kiosque 8" 8408 T
+:CHN "Kiosque 9" 8409 T
+:CHN "Kiosque 10" 8410 T
+:NET "Premiere World" 133
+:TRP 7 1214800 275000 133 H 0 3/4
+:CHN "Home Shopping Europe Français" 45 T
+:CHN "Rock Antenne" 160 R
+:CHN "Hit-Radio Antenne Niedersachsen" 168 R
+:CHN "Sunshine Live" 169 R
+:CHN "Antenne Bayern" 170 R
+:NET "TBS" 1
+:TRP 1088 1216800 275000 1 V 0 3/4
+:CHN "Cartoon Network France" 28511 T
+:CHN "TVBS Europe" 28631 T
+:CHN "Travel" 28001 T
+:CHN "TCM España" 28516 T
+:CHN "CNN International Europe" 28512 T
+:CHN "Bloomberg TV España" 12721 T
+:CHN "TCM France" 28515 T
+:CHN "CNN Radio" 28513 R
+:NET "RTL" 1
+:TRP 1089 1218800 275000 1 H 0 3/4
+:CHN "[test card]" 12086 T
+:CHN "RTL Deutschland" 12003 T
+:CHN "Super RTL Deutschland" 12040 T
+:CHN "RTL 2 Deutschland" 12020 T
+:CHN "Vox" 12060 T
+:CHN "[Astra test card]" 12080 T
+:NET "CanalSatellite France" 1
+:TRP 1090 1220700 275000 1 V 0 3/4
+:CHN "La Cinquième" 8501 T
+:CHN "TV Breizh" 8502 T
+:CHN "EuroNews" 8505 T
+:CHN "LCP - La Chaîne Parlementaire" 8506 T
+:CHN "Planète 2" 8507 T
+:CHN "[Canal Sat test card]" 8516 T
+:CHN "NRJ" 8510 R
+:CHN "France Musiques" 8509 R
+:CHN "RFI Musique" 8511 R
+:CHN "Talents" 8503 R
+:NET " " 133
+:TRP 8 1222600 275000 133 H 0 3/4
+:CHN "[Beta Digital test card]" 770 T
+:CHN "Champions TV" 773 T
+:CHN "[Beta Digital test card]" 771 T
+:NET "CanalSatellite France" 1
+:TRP 1093 1226600 275000 1 H 0 3/4
+:CHN "AB Moteurs" 17000 T
+:CHN "AB 1" 17001 T
+:CHN "Animaux" 17002 T
+:CHN "Encyclopedia" 17003 T
+:CHN "Zik" 17004 T
+:CHN "Escales" 17005 T
+:CHN "La Chaîne Histoire" 17006 T
+:CHN "BBC World" 17007 T
+:CHN "RFM TV" 17008 T
+:CHN "Fashion TV" 17009 T
+:CHN "Action" 17010 T
+:CHN "Mangas" 17011 T
+:CHN "Polar tests" 17012 T
+:NET "CanalSatellite France" 1
+:TRP 1096 1232400 275000 1 V 0 3/4
+:CHN "CSat promo" 8601 T
+:CHN "Mosaique 1" 8603 T
+:CHN "Mosaique 2" 65280 T 163  8191
+:CHN "Crédit Agricole TV promo" 8610 T
+:CHN "Bloc Note Canal +" 8613 T
+:NET "Canal Digitaal Satelliet" 53
+:TRP 1097 1234400 275000 53 H 0 3/4
+:CHN "RTL 4" 2004 T
+:CHN "CNBC Europe" 2010 T
+:CHN "Discovery Channel Nederland & Vlaanderen" 2015 T
+:CHN "RTL 5" 2005 T
+:CHN "Animal Planet Europe" 2020 T
+:CHN "RVI 1" 2070 R
+:CHN "RVI 2" 2075 R
+:CHN "RTL Radio" 2051 R
+:CHN "Mood Media 1" 8014 R
+:NET "CanalSatellite France" 1
+:TRP 1098 1236300 275000 1 V 0 3/4
+:CHN "L'Universe Interactif promo" 9199 T
+:CHN "CanalSatellite Digital Interactif Mosaic" 9200 T
+:NET "CanalSatellite France" 1
+:TRP 1100 1240200 275000 1 V 0 3/4
+:CHN "Demain!" 8701 T
+:CHN "Comédie!" 8702 T
+:CHN "13ème Rue" 8703 T
+:CHN "Kiosque promo" 8704 T
+:CHN "Fox Kids France" 8705 T
+:CHN "RFO Sat" 8708 T
+:CHN "L'Équipe TV" 8706 T
+:CHN "Forum" 8707 T
+:CHN "Game One" 8717 T
+:CHN "Ciné Classics" 8709 T
+:NET " " 133
+:TRP 33 1248000 275000 133 V 0 3/4
+:CHN "Pro Sieben Deutschland" 898 T
+:CHN "Kabel 1 Deutschland" 899 T
+:CHN "Neun Live" 897 T
+:CHN "DSF - Deutsches SportFernsehen" 900 T
+:CHN "Home Shopping Europe Deutsch" 40 T
+:CHN "Sat. 1 Deutschland" 46 T
+:CHN "N 24" 47 T
+:NET " " 1
+:TRP 1112 1261000 220000 1 V 0 5/6
+:CHN "TV 5 Europe" 12240 T
+:CHN "[test card]" 3982 T
+:CHN "Video Italia" 12220 T
+:CHN "Alice" 12200 T
+:CHN "Motors TV" 12300 T
+:CHN "[test card]" 12320 T
+:CHN "Liberty TV.com" 12280 T
+:CHN "Radio Italia" 12711 R
+:CHN "BBC World Service Europe" 12340 R
+:SAT "Astra" 19.2 E
+:NET " " 1
+:TRP 1054 1078800 220000 1 V 0 5/6
+:CHN "RTM 1 Europe" 9002 T
+:CHN "ESC 1" 9003 T
+:CHN "TV 5 FBS" 9001 T
+:CHN "TV 7" 9007 T
+:CHN "Arte Français" 9009 T
+:CHN "Canal Algérie" 9008 T
+:CHN "RAI Uno" 9004 T
+:CHN "RTP Internacional" 9006 T
+:CHN "Deutsche Welle TV" 9005 T
+:SAT "HotBird" 13.0 E
+:NET "Canal 24 Horas" 65063
+:TRP 65025 1120500 40000 65063 H 0 3/4
+:CHN "Canal 24 Horas" 65280 T 4130 4131 8191
+:NET "MTV Networks" 318
+:TRP 65026 1124200 275000 318 V 0 3/4
+:CHN "MTV 2 Pop" 1 T
+:CHN "MTV Italia Satelite" 2 T
+:CHN "MTV 2 Europe" 4 T
+:CHN "MTV NL" 5 T
+:CHN "MTV European" 6 T
+:CHN "VH 1 European" 7 T
+:CHN "MTV France" 9 T
+:CHN "MTV Schweiz" 10 T
+:NET "Deutsche Telekom" 133
+:TRP 65027 1126200 275000 133 H 0 3/4
+:CHN "The Disney Channel Germany" 34 T
+:CHN "Studio Universal" 36 T
+:CHN "Planet" 13 T
+:NET "Cyfra +" 318
+:TRP 400 1128300 275000 318 V 0 3/4
+:CHN "Discovery Civilisation" 13001 T
+:CHN "Discovery Travel & Adventure" 13002 T
+:CHN "Discovery Sci-Trek" 13003 T
+:CHN "EuroSport News tests" 13004 T
+:CHN "TVN 24" 13005 T
+:CHN "[test card]" 13011 T
+:NET "Alpha Digital" 318
+:TRP 65029 1130400 300000 318 H 0 3/4
+:CHN "Avante" 802 T
+:CHN "Club" 803 T
+:CHN "Extreme Sports Channel" 804 T
+:CHN "Reality TV" 805 T
+:CHN "Cartoon Network" 806 T
+:CHN "CNBC Europe" 807 T
+:CHN "Private Blue" 808 T
+:CHN "Playboy TV" 809 T
+:CHN "National Geographic Adventure 1" 810 T
+:NET "TV 5 Asie" 65063
+:TRP 65030 1133800 56320 65063 V 0 3/4
+:CHN "TV 5 Asie" 1 T
+:SAT "HotBird" 13.0 E
+:NET "Dubai mux" 318
+:TRP 5100 1174700 275000 318 H 0 3/4
+:CHN "Dubai EDTV Europe" 9501 T
+:CHN "Dubai Sports Channel Europe" 9502 T
+:CHN "Dubai Business Channel" 9503 T
+:CHN "Dubai EDTV Europe" 9504 T
+:CHN "UAE Radio Dubai" 9523 R
+:CHN "UAE Radio Dubai" 9524 R
+:NET "RAI" 318
+:TRP 5200 1176600 275000 318 V 0 2/3
+:CHN "RAI Uno" 3401 T
+:CHN "RAI Due" 3402 T
+:CHN "RAI Tre" 3403 T
+:CHN "RAI Med" 3404 T
+:CHN "Canale Lavoro" 3405 T
+:CHN "RAI Edu Lab" 3406 T
+:CHN "RAI Mosaico" 3407 T
+:NET "Retevisión" 318
+:TRP 5300 1178500 275000 318 H 0 3/4
+:CHN "TVE Internacional Europe" 1 T
+:CHN "Canal Clásico" 2 T
+:CHN "Tele Deporte" 3 T
+:CHN "Hispavisión" 4 T
+:CHN "TVE Internacional Asia-Africa" 5 T
+:CHN "Canal Nostalgia" 6 T
+:CHN "Canal 24 Horas" 7 T
+:CHN "[test card]" 8 T
+:CHN "RNE Radio 1" 11 R
+:CHN "RNE Radio Clásica" 12 R
+:CHN "RNE Radio 3" 13 R
+:CHN "RNE Radio 5 Todo Noticias" 14 R
+:CHN "REE - Radio Exterior de España" 15 R
+:NET "RAI" 318
+:TRP 5400 1180400 275000 318 V 0 2/3
+:CHN "RAI Sport Satellite" 3305 T
+:CHN "RAI Nettuno Sat Due" 3306 T
+:CHN "RAI Educational" 3307 T
+:CHN "TelePace" 3304 T
+:CHN "RAI News 24" 3301 T
+:CHN "Camera dei Deputati" 3302 T
+:CHN "Sat 2000" 3309 T
+:CHN "RAI Nettuno Sat Uno" 3308 T
+:CHN "Radio Vaticana" 3320 R
+:CHN "Isoradio" 3318 R
+:CHN "GR Parlamento" 3317 R
+:CHN "FD Auditorium" 3315 R
+:CHN "FD Leggera" 3319 R
+:CHN "RAI Radio 1" 3311 R
+:CHN "RAI Radio 2" 3312 R
+:CHN "RAI Radio 3" 3313 R
+:CHN "FD Leggera" 3314 R
+:CHN "Blu Sat 2000" 3316 R
+:NET "Nova" 318
+:TRP 5500 1182300 275000 318 H 0 3/4
+:CHN "FilmNet Hellas" 317 T
+:CHN "SuperSport Hellas" 318 T
+:CHN "Mega Channel" 319 T
+:CHN "ANT 1" 320 T
+:CHN "SuperSport 2" 324 T
+:CHN "Star Channel" 321 T
+:CHN "Alter Channel" 322 T
+:CHN "Tempo TV" 323 T
+:CHN "Fox Kids Hellas" 316 T
+:CHN "Travel" 328 T
+:CHN "The radio station of Hellenic Church" 310 R
+:CHN "SKAÏ 100.4 FM" 311 R
+:CHN "SKAÏ 100.4 FM" 314 R
+:CHN "Melodia FM 100" 312 R
+:CHN "Love Radio 99 FM" 309 R
+:CHN "Stathmos 101.3" 315 R
+:NET "Stream TV" 64511
+:TRP 5600 1184300 275000 64511 V 0 3/4
+:CHN "Stream promo" 3504 T
+:CHN "Studio Universal" 3507 T
+:CHN "Cult Network Italia" 3510 T
+:CHN "EuroSport Italy" 3513 T
+:CHN "Cartoon Network Italy" 3516 T
+:CHN "Discovery Channel Italy" 3522 T
+:CHN "TV L" 3528 T
+:CHN "Radio Radio" 3566 R
+:CHN "Radio Rock" 3550 R
+:CHN "Radio Dimensione Suono" 3553 R
+:CHN "Radio Antenna 1" 3565 R
+:CHN "Radio Globo" 3564 R
+:CHN "Radio Incontro 96.8" 3562 R
+:CHN "Super Rock" 3571 R
+:CHN "Classic Rock" 3574 R
+:CHN "Hit Radio" 3568 R
+:NET "Tele + Digitale" 16384
+:TRP 5700 1186200 275000 16384 H 0 3/4
+:CHN "Palco 7" 11301 T
+:CHN "Palco 8" 11303 T
+:CHN "Palco 9" 11305 T
+:CHN "Tutto Classica" 11311 R
+:CHN "All Jazz" 11312 R
+:CHN "Bel Canto" 11313 R
+:CHN "Atmosfera" 11314 R
+:CHN "La Dolce Vita" 11315 R
+:CHN "Cine Musica" 11316 R
+:CHN "Cantanti e Poeti" 11317 R
+:CHN "La Canzoni d'Italia" 11318 R
+:CHN "Fisarmonica" 11319 R
+:CHN "Canzoni di Francia" 11320 R
+:CHN "Black & Blues" 11321 R
+:CHN "Musica Etno" 11322 R
+:CHN "Le Mie Favorite" 11323 R
+:CHN "Dance Music" 11324 R
+:CHN "Rock Forever" 11325 R
+:CHN "Maxi Dance" 11326 R
+:CHN "Cactus Country" 11327 R
+:CHN "Rock Alternativo" 11328 R
+:CHN "Anni 60" 11329 R
+:CHN "Pianeta Rap" 11330 R
+:CHN "Musica Sinfonica" 11331 R
+:CHN "Adagio" 11332 R
+:CHN "Grande Opera" 11333 R
+:CHN "Musica da Camera" 11334 R
+:CHN "Fantasia Barocca" 11335 R
+:CHN "Musica Antica" 11336 R
+:CHN "Musica Sacra" 11337 R
+:CHN "Jazz Legendario" 11338 R
+:CHN "Jazz Festival" 11339 R
+:CHN "New Jazz" 11340 R
+:CHN "Radio 105" 11342 R
+:CHN "Radio Italia" 11344 R
+:CHN "Radio Monte Carlo Italia" 11345 R
+:CHN "Radio 101" 11346 R
+:CHN "Radio Radicale" 11347 R
+:CHN "RTL 102.5" 11348 R
+:CHN "FM Classics" 11349 R
+:NET "Stream TV" 64511
+:TRP 5800 1188100 275000 64511 V 0 3/4
+:CHN "Stream Canale Info" 3628 T
+:CHN "Stream News Channel" 3610 T
+:CHN "Canale Viaggi" 3616 T
+:CHN "CNN International Europe" 3625 T
+:CHN "SNAI Sat" 3630 T
+:CHN "Primafila Spettacoli" 3632 T
+:CHN "Soft Rock" 3636 R
+:CHN "Heavy Metal" 3637 R
+:CHN "Polvere Di Stelle 1955-1969" 3638 R
+:CHN "Polvere Di Stelle 1970-1989" 3641 R
+:CHN "Frequenza Italia" 3644 R
+:CHN "Love Songs" 3647 R
+:CHN "Dance" 3650 R
+:CHN "Dance Underground" 3653 R
+:CHN "Soul Classico" 3656 R
+:CHN "Soul & Rap" 3659 R
+:CHN "Reggae" 3665 R
+:CHN "Jazz Classico" 3668 R
+:CHN "Fusion" 3671 R
+:CHN "Big Band" 3674 R
+:CHN "Blues" 3677 R
+:CHN "Ritmo Latino" 3662 R
+:NET "Tele + Digitale" 318
+:TRP 5900 1190000 275000 318 H 0 3/4
+:CHN "Mosaico Tele + Digitale" 11401 T
+:CHN "Mosaico 2 Tele + Digitale" 65280 T 161 86 8191
+:CHN "Milan Channel" 11403 T
+:CHN "Inter Channel" 11405 T
+:CHN "TST 3" 11407 T
+:CHN "Canal Tele + Digitale" 11409 T
+:NET "Mediaset" 272
+:TRP 6000 1191900 275000 272 V 0 2/3
+:CHN "Italia 1" 1 T
+:CHN "Canale 5" 2 T
+:CHN "Rete 4" 3 T
+:CHN "Radio Mater" 11 R
+:NET "NTV International" 318
+:TRP 61 1193800 275000 318 H 0 3/4
+:CHN "NTV International" 7101 T
+:CHN "NTV Plus Nashe Kino" 7102 T
+:CHN "NTV Plus Detski Mir" 7103 T
+:CHN "NTV USA" 7105 T
+:CHN "NTV Plus" 7106 T
+:NET "Tele + Digitale" 16384
+:TRP 6200 1195800 275000 16384 V 0 3/4
+:CHN "The Disney Channel Italia" 10901 T
+:CHN "Discovery Channel Italy" 10903 T
+:CHN "EuroSport Italy" 10905 T
+:CHN "Happy Channel" 10907 T
+:CHN "Match Music TV" 10909 T
+:CHN "MTV Italia Satelite" 10911 T
+:CHN "RAISat Cinema" 10913 T
+:CHN "RAISat Show" 10915 T
+:NET "Stream TV" 64511
+:TRP 6300 1197700 275000 64511 H 0 3/4
+:CHN "Cinema Stream" 8104 T
+:CHN "Cine Movie" 8107 T
+:CHN "Grande Fratello 1" 8113 T
+:CHN "Grande Fratello 2" 65280 T 523 751 8191
+:NET "Tele + Digitale" 16384
+:TRP 6400 1199600 275000 16384 V 0 3/4
+:CHN "Classica" 11001 T
+:CHN "RAISat Gambero Rosso" 11003 T
+:CHN "RAISat Album" 11005 T
+:CHN "Hallmark Channel Italy" 11007 T
+:CHN "RAISat Art" 11009 T
+:CHN "RAISat Fiction" 11011 T
+:CHN "La 7" 11013 T
+:CHN "MTV Italia" 11015 T
+:CHN "EuroSport News Italia" 11017 T
+:NET "Arabesque" 318
+:TRP 6500 1201500 275000 318 H 0 3/4
+:CHN "ART Global Middle East" 410 T
+:CHN "ART Teenz Europe" 420 T
+:CHN "ART Aflam" 430 T
+:CHN "ART Music" 440 T
+:CHN "Nile Drama" 450 T
+:CHN "LBC Europe" 460 T
+:CHN "Nile Variety" 470 T
+:CHN "ART Sport" 472 T
+:CHN "Iqraa Channel" 474 T
+:CHN "Canal Algérie" 476 T
+:CHN "Al-Qur'aan Al-Kareem Radio" 410 R
+:CHN "Second Program" 430 R
+:CHN "Main Arabic Program" 450 R
+:CHN "ART Sports Radio" 472 R
+:CHN "ART Al-Thekr" 474 R
+:NET "Tele + Digitale" 318
+:TRP 6600 1203400 275000 318 V 0 3/4
+:CHN "Tele + Bianco" 11101 T
+:CHN "Tele + Nero" 11103 T
+:CHN "Tele + Grigio" 11105 T
+:CHN "[Tele + Digitale test card]" 11123 T
+:CHN "Tele + 16:9" 11107 T
+:CHN "Vetrina Tele + Digitale" 11109 T
+:CHN "RAISat Ragazzi" 11111 T
+:CHN "Cartoon Network Italy" 11113 T
+:NET "Tele + Digitale" 318
+:TRP 6700 1205400 275000 318 H 0 3/4
+:CHN "CNN International Europe" 11501 T
+:CHN "BBC World" 11503 T
+:CHN "Bloomberg TV Italia" 11505 T
+:CHN "CNBC Europe" 11507 T
+:CHN "Sky News" 11509 T
+:CHN "[Rock TV test card]" 11511 T
+:CHN "TV 5 Europe" 11513 T
+:NET "Tele + Digitale" 318
+:TRP 6800 1207300 275000 318 V 0 3/4
+:CHN "Palco promo" 11201 T
+:CHN "+ Gol" 11203 T
+:CHN "Palco 16:9" 11205 T
+:CHN "Palco 2" 11207 T
+:CHN "Palco 3" 11209 T
+:CHN "Palco 4" 11211 T
+:CHN "Palco 5" 11213 T
+:CHN "Palco 6" 11215 T
+:NET "TSA" 318
+:TRP 6900 1209200 275000 318 H 0 3/4
+:CHN "TV Locale" 8704 T
+:CHN "SCT - Satisfaction Channel TV" 8727 T
+:CHN "La Cadena del Milagro Internacional" 8711 T
+:CHN "Visions Europe" 8719 T
+:CHN "Canal Andalucía Turismo" 8720 T
+:CHN "RCT - Rainbow Channel TV" 8706 T
+:CHN "Tiziana Sat" 8728 T
+:CHN "UBN" 8729 T
+:CHN "Sex View" 8731 T
+:CHN "Marchio Italiano promo" 8733 T
+:CHN "Grandes éxitos" 8713 R
+:CHN "Canal latino" 8714 R
+:CHN "Música ambiental" 8715 R
+:CHN "Música joven" 8716 R
+:CHN "Música romantica" 8717 R
+:CHN "Música clásica" 8718 R
+:CHN "Cadena Energia" 8725 R
+:CHN "Radio San Marino" 8732 R
+:CHN "Radio Serena" 8752 R
+:SAT "HotBird" 13.0 E
+:NET "Telespazio" 318
+:TRP 7000 1211100 275000 318 V 0 3/4
+:CHN "Krisma TV" 701 T
+:CHN "Cavallo Channel promo" 702 T
+:CHN "[test card]" 704 T
+:CHN "NTA - National TV of Armenia" 705 T
+:CHN "Al-Jazeera Satellite Channel" 708 T
+:CHN "Coming Soon TV" 717 T
+:CHN "Salute Benessere" 718 T
+:CHN "Radio Rock" 730 R
+:CHN "RadioClassica" 735 R
+:CHN "Radio Rock" 711 R
+:CHN "Armenia Radio" 712 R
+:NET "Sitcom World" 318
+:TRP 7200 1214900 275000 318 V 0 3/4
+:CHN "[Antenna Hungaria test card]" 7205 T
+:CHN "[Antenna Hungaria test card]" 7201 T
+:CHN "TV 7" 7202 T
+:CHN "Leonardo" 7222 T
+:CHN "Alice" 7220 T
+:CHN "Nuvolari" 7221 T
+:CHN "Espresso promo" 7203 T
+:NET "Nova" 318
+:TRP 7300 1216900 275000 318 H 0 3/4
+:CHN "Discovery Channel Greece" 351 T
+:CHN "NET" 376 T
+:CHN "BBC World" 353 T
+:CHN "Cartoon Network" 360 T
+:CHN "TCM" 354 T
+:CHN "CCTV 4" 355 T
+:CHN "Kanali Voulis" 384 T
+:CHN "Mad TV" 377 T
+:CHN "ET 1" 378 T
+:CHN "SuperSport Extra" 385 T
+:CHN "Nova promo" 361 T
+:CHN "Pop" 362 R
+:CHN "Artistic" 363 R
+:CHN "Love Music" 364 R
+:CHN "Rebetico" 365 R
+:CHN "Rock - Hip Hop" 366 R
+:CHN "ERA Trito" 379 R
+:NET "OTE" 56
+:TRP 7400 1218800 275000 56 V 0 3/4
+:CHN "Tele Asty" 1108 T
+:CHN "ERT Sat" 1102 T
+:CHN "Extra Channel" 1106 T
+:CHN "OTE promo" 1001 T
+:CHN "RTS Sat" 1022 T
+:CHN "Magic Peiraia" 1023 T
+:CHN "902 Aristera Sta FM" 1310 R
+:CHN "NSR - Network Satellite Radio" 1311 R
+:CHN "Planet 104.5" 1312 R
+:CHN "Jeronimo Groovy" 1313 R
+:CHN "Athina 9.84 FM" 1322 R
+:CHN "Radio Gold 105 FM" 1317 R
+:CHN "Radio Beograd 1" 1323 R
+:CHN "Ant 1 97.1" 1315 R
+:CHN "Sport FM" 1306 R
+:CHN "Kiss FM 909" 1316 R
+:CHN "Flash 9.61" 1309 R
+:CHN "Nitro Radio" 1320 R
+:CHN "Radio Sfera" 1321 R
+:NET "Pro TV" 65065
+:TRP 65029 1219800 121300 65065 H 0 7/8
+:CHN "Pro TV International" 3 T
+:NET "TVN" 4194
+:TRP 1 1221100 56320 4194 H 0 3/4
+:CHN "TVN" 1 T
+:NET "RR Satellite Communications" 4369
+:TRP 65031 1222000 61610 4369 H 0 3/4
+:CHN "Arirang TV World 1" 1 T
+:CHN "BK 063 Sat" 3 T
+:CHN "Israel Radio International" 1 R
+:CHN "Voice of Hope" 2 R
+:NET "DCTV - DaimlerChrysler TV" 318
+:TRP 65032 1223600 134000 318 V 0 3/4
+:CHN "DCTV - DaimlerChrysler TV" 11 T
+:NET " " 318
+:TRP 7700 1224500 275000 318 H 0 3/4
+:CHN "CFI Peco Pro" 101 T
+:CHN "MCM Europe" 102 T
+:CHN "Fashion TV" 103 T
+:CHN "TTN - Tamil TV Network" 104 T
+:CHN "Muzzik" 105 T
+:CHN "[test card]" 106 T
+:CHN "Ajara TV" 107 T
+:CHN "Radio Dimensione Suono" 182 R
+:CHN "Radio 2000" 183 R
+:CHN "Radio Rinascente" 171 R
+:CHN "Radio Cooky" 172 R
+:CHN "Radio Baby" 173 R
+:CHN "Radio McDonald's" 174 R
+:CHN "Radio Day Classic" 175 R
+:CHN "Radio Cecchetto" 176 R
+:CHN "Euromedia promo" 177 R
+:NET "Deutsche Telekom" 65065
+:TRP 65034 1226500 275000 65065 V 0 3/4
+:CHN "XXP" 99 T
+:NET "RTV Slovenija" 318
+:TRP 8000 1230300 275000 318 V 0 3/4
+:CHN "[Medisat test card]" 3218 T
+:CHN "TV Slovenija 1" 3201 T
+:CHN "TV Slovenija 2" 3202 T
+:CHN "BVN TV" 3209 T
+:CHN "Kurdistan TV" 3214 T
+:CHN "TBN Italy" 3213 T
+:CHN "Count Down TV" 3212 T
+:CHN "Napoli International" 3210 T
+:CHN "Magic TV" 3211 T
+:CHN "Radio Slovenija 1" 3204 R
+:CHN "Radio Slovenija 2" 3205 R
+:CHN "Radio Slovenija 3" 3206 R
+:CHN "Radio Slovenija International" 3208 R
+:NET "PolSat 2 Cyfrowy" 113
+:TRP 8100 1232200 275000 113 H 0 3/4
+:CHN "TVP 1" 7301 T
+:CHN "TVP 2" 7302 T
+:CHN "PolSat" 7303 T
+:CHN "PolSat 2 Info" 7305 T
+:CHN "TV 4" 7304 T
+:CHN "TVP WOT" 7306 T
+:CHN "Discovery Channel Europe" 7315 T
+:CHN "Animal Planet Europe" 7316 T
+:CHN "RTL 7" 7317 T
+:NET "Tele + Digitale" 16384
+:TRP 8200 1234100 275000 16384 V 0 3/4
+:CHN "Palco 10" 11601 T
+:CHN "Palco 11" 11603 T
+:CHN "Palco 12" 11605 T
+:CHN "Palco 13" 11607 T
+:CHN "Palco 14" 11609 T
+:CHN "Palco 15" 11611 T
+:CHN "Palco 16" 11613 T
+:CHN "Mosaico Premium" 11615 T
+:CHN "Radio Radicale" 11633 R
+:NET "PolSat 2 Cyfrowy" 113
+:TRP 8300 1236000 275000 113 H 0 3/4
+:CHN "On" 10507 T
+:CHN "Ona" 10508 T
+:CHN "Junior" 10510 T
+:CHN "Muzyczny Relaks" 10511 T
+:CHN "PolSat Sport" 10513 T
+:CHN "Reality TV" 10514 T
+:CHN "Teleuniwersytet" 10512 T
+:NET "GlobeCast" 318
+:TRP 8400 1238000 275000 318 V 0 3/4
+:CHN "Paris Première" 3001 T
+:CHN "Atlas TV" 3002 T
+:CHN "Tele 24" 3003 T
+:CHN "Abu Dhabi TV Europe" 3004 T
+:CHN "TiJi" 3005 T
+:CHN "TV Montenegro" 3006 T
+:CHN "Game One" 3007 T
+:CHN "Equidia International" 3051 T
+:CHN "Radio Dimensione Suono" 3081 R
+:CHN "Tamil Oli Radio" 3082 R
+:CHN "Emarat FM" 3083 R
+:CHN "Emarat FM" 3084 R
+:CHN "Radio Gal" 3087 R
+:CHN "Radio Montenegro" 3088 R
+:CHN "Tamil Alai" 3089 R
+:NET "SBC" 318
+:TRP 8500 1239900 275000 318 H 0 3/4
+:CHN "SF 1" 901 T
+:CHN "TSR 1" 902 T
+:CHN "TSI 1" 903 T
+:CHN "SF 2" 907 T
+:CHN "TSR 2" 908 T
+:CHN "SRG SSR Sat Access info" 910 T
+:CHN "TSI 2" 909 T
+:CHN "SF i" 911 T
+:CHN "Swiss Pop" 910 R
+:CHN "SRI Français/Italiano" 951 R
+:CHN "RSI Rete Uno" 953 R
+:CHN "SRI Intercontinental" 954 R
+:CHN "RSR Option Musique" 957 R
+:CHN "RSR Espace 2" 958 R
+:NET "Tele + Digitale" 16384
+:TRP 8600 1241800 275000 16384 V 0 3/4
+:CHN "Marco Polo" 11701 T
+:CHN "Planete Italia" 11703 T
+:CHN "Canal Jimmy Italia" 11705 T
+:CHN "INN - Italian Network News" 11707 T
+:CHN "Ciné Cinémas 1" 11709 T
+:CHN "Ciné Cinémas 2" 11711 T
+:CHN "Ciné Classics" 11713 T
+:CHN "Seasons Italia" 11715 T
+:NET "IRIB" 602
+:TRP 73 1243700 275000 602 H 0 3/4
+:CHN "Jame-Jam TV Network 1" 1 T
+:CHN "Jame-Jam TV Network 2" 2 T
+:CHN "Sahar Universal Network 1" 3 T
+:CHN "Sahar Universal Network 2" 4 T
+:CHN "IRINN - Iranian News Network" 5 T
+:CHN "IRIB Radio 1" 7 R
+:CHN "IRIB Arabic Radio" 8 R
+:CHN "IRIB World Service Radio 2" 9 R
+:CHN "IRIB World Service Radio 4" 10 R
+:NET "Hallmark Channel" 65065
+:TRP 65043 1246000 275000 65065 V 0 3/4
+:CHN "Hallmark Channel Russia & Middle East" 7 T
+:NET "Belgacom" 318
+:TRP 8900 1247600 275000 318 H 0 3/4
+:CHN "Maharishi Open University Europe" 10602 T
+:CHN "EbS - Europe by Satellite" 10601 T
+:CHN "Pink Plus" 10605 T
+:CHN "Television X - The Fantasy Channel" 10606 T
+:CHN "2M Maroc" 10607 T
+:CHN "ARY Digital UK" 10609 T
+:CHN "Zee TV UK" 10604 T
+:CHN "Zee Cinema UK" 10624 T
+:CHN "Liberty TV.com" 10603 T
+:CHN "Radio Pink" 10605 R
+:CHN "SENSE" 10601 R
+:CHN "Spreeradio 105.5" 10652 R
+:CHN "Radio 2M" 10608 R
+:CHN "RVI 1" 10610 R
+:CHN "RVI 2" 10621 R
+:CHN "Radio 74" 10612 R
+:CHN "Radio 74 International" 10613 R
+:CHN "Family Radio" 10614 R
+:CHN "Family Radio International 1" 10615 R
+:CHN "Family Radio International 2" 10611 R
+:CHN "Radio Framboise Nord" 10616 R
+:CHN "Top Two" 10619 R
+:CHN "Radio Framboise tests" 10617 R
+:CHN "Al-Mahabba Radio" 10618 R
+:NET "WorldNet" 318
+:TRP 1 1248400 83000 318 V 0 3/4
+:CHN "WorldNet Europe" 1 T
+:CHN "WorldNet" 4 T
+:CHN "Voice of America" 65280 R 8191 4222 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4222 8191
+:CHN "Voice of America" 65280 R 8191 4230 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4230 8191
+:CHN "Voice of America" 65280 R 8191 4232 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4232 8191
+:CHN "VoA Music Mix" 65280 R 8191 4320 8191
+:CHN "Voice of America" 65280 R 8191 4322 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4322 8191
+:CHN "Voice of America" 65280 R 8191 4322 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4322 8191
+:CHN "Voice of America" 65280 R 8191 4330 8191
+:CHN "Voice of America" 65280 R 8191 4330 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4330 8191
+:CHN "VoA News Now" 65280 R 8191 4332 8191
+:CHN "IBB Pristina" 65280 R 8191 4332 8191
+:CHN "RFE/RL Persian service" 65280 R 8191 4420 8191
+:CHN "IBB Pristina" 65280 R 8191 4420 8191
+:CHN "Voice of America" 65280 R 8191 4422 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4422 8191
+:CHN "Voice of America" 65280 R 8191 4430 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4430 8191
+:CHN "Voice of America" 65280 R 8191 4430 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4430 8191
+:CHN "VoA Eastern Europe" 65280 R 8191 4432 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4432 8191
+:CHN "VoA Eastern Europe" 65280 R 8191 4432 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4432 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4522 8191
+:CHN "RFE/Radio Liberty" 65280 R 8191 4522 8191
+:SAT "HotBird" 13.0 E
+:NET "Cyfra +" 318
+:TRP 11000 1071900 275000 318 V 0 3/4
+:CHN "TVN" 4401 T
+:CHN "Discovery Channel Poland" 4402 T
+:CHN "RTL 7" 4403 T
+:CHN "TV Polonia" 4404 T
+:CHN "EuroSport News Poland" 4405 T
+:CHN "Planète" 4406 T
+:CHN "Seasons" 4407 T
+:CHN "Viva Polska" 4408 T
+:CHN "Piosenka Polska" 4440 R
+:NET "British Telecom" 318
+:TRP 11100 1072300 299000 318 H 0 3/4
+:CHN "EWTN Europe" 4601 T
+:CHN "CineNova 2" 4602 T
+:CHN "CineNova" 4603 T
+:CHN "MTA International" 4604 T
+:CHN "Fox Kids Russia" 4605 T
+:CHN "Deepam TV" 4606 T
+:NET "TPS" 176
+:TRP 11200 1075800 275000 176 V 0 3/4
+:CHN "Cinéstar 1" 1201 T
+:CHN "Cinéstar 2" 1202 T
+:CHN "Cinétoile" 1203 T
+:CHN "Shopping Avenue" 1204 T
+:CHN "Série Club" 1205 T
+:CHN "Fun TV" 1206 T
+:CHN "Téva" 1207 T
+:CHN "M6 Music" 1208 T
+:CHN "Club Téléachat" 1209 T
+:CHN "Shopping Avenue" 1214 T
+:NET "TPS" 176
+:TRP 11400 1079600 275000 176 V 0 2/3
+:CHN "InfoSport" 1401 T
+:CHN "Régions" 1402 T
+:CHN "Mezzo" 1403 T
+:CHN "Festival" 1404 T
+:CHN "Histoire" 1405 T
+:CHN "TéléToon" 1406 T
+:CHN "Odyssée" 1407 T
+:CHN "TV 5 FBS" 1409 T
+:CHN "France Musiques" 1418 R
+:CHN "Hector" 1419 R
+:CHN "FIP - France Inter Paris" 1420 R
+:CHN "France Inter" 1421 R
+:CHN "France Info" 1422 R
+:CHN "Beur FM" 1423 R
+:CHN "France Culture" 1424 R
+:CHN "France Bleu" 1425 R
+:CHN "Le Mouv'" 1426 R
+:NET "TPS" 176
+:TRP 11600 1083400 275000 176 V 0 3/4
+:CHN "LCI - La Chaîne Info" 1101 T
+:CHN "EuroSport France" 1102 T
+:CHN "France 2" 1103 T
+:CHN "TPS Star" 1104 T
+:CHN "France 3 Sat" 1105 T
+:CHN "I TV" 1108 T
+:CHN "Crédit Agricole TV" 5301 T
+:CHN "TPS Star" 5600 T
+:NET "TPS" 176
+:TRP 11800 1087300 275000 176 V 0 3/4
+:CHN "RTM 1 Europe" 1501 T
+:CHN "SIC Internacional" 1502 T
+:CHN "Equidia" 1503 T
+:CHN "TV 7" 1504 T
+:CHN "Ciné Info" 1505 T
+:CHN "BBC Prime" 1506 T
+:CHN "TV Breizh" 1507 T
+:CHN "RTL 9" 1509 T
+:CHN "LCP - La Chaîne Parlementaire" 1510 T
+:CHN "Europe 1" 1530 R
+:CHN "Europe 2" 1531 R
+:CHN "RFM" 1532 R
+:CHN "BFM" 1533 R
+:CHN "RTL" 1534 R
+:CHN "NRJ" 1535 R
+:CHN "Radio Classique" 1536 R
+:CHN "Chérie FM" 1537 R
+:CHN "Fun Radio" 1538 R
+:CHN "RTL 2" 1539 R
+:CHN "RCF - Radio Chrétiennes en France" 1540 R
+:CHN "W-une" 1541 R
+:NET "Cyfra +" 318
+:TRP 11900 1089200 275000 318 H 0 3/4
+:CHN "Canal + Bialy" 4801 T
+:CHN "Canal + Zólty" 4802 T
+:CHN "TMT - Troche Mlodsza TV" 4804 T
+:CHN "Ale Kino!" 4805 T
+:CHN "MiniMax Poland" 4806 T
+:CHN "TVP 1" 4807 T
+:CHN "TVP 2" 4808 T
+:CHN "Canal + Niebieski" 4809 T
+:CHN "Polskie Radio Bis" 4840 R
+:NET "TPS" 176
+:TRP 12000 1091100 275000 176 V 0 3/4
+:CHN "TFJ" 1601 T
+:CHN "Cinéfaz" 1602 T
+:CHN "Multivision promo" 1603 T
+:CHN "TF 6" 1607 T
+:CHN "Grand Classique" 1650 R
+:CHN "Symphonies" 1651 R
+:CHN "Baroque" 1652 R
+:CHN "Opéra" 1653 R
+:CHN "Contemporain" 1654 R
+:CHN "Relaxation" 1655 R
+:CHN "Blues" 1656 R
+:CHN "Jazz" 1657 R
+:CHN "Big Band" 1658 R
+:CHN "Jazz Moderne" 1659 R
+:CHN "Les Tubes Français" 1660 R
+:CHN "Rire et Chansons" 1630 R
+:CHN "Mosqueteiros" 1632 R
+:CHN "MFM" 1634 R
+:CHN "RMC Info" 1635 R
+:CHN "RFI - Radio France International" 1637 R
+:CHN "Radio Nostalgie" 1638 R
+:CHN "SkyRock" 1639 R
+:CHN "Radio Courtoisie" 1640 R
+:CHN "La Voix des Pays" 1641 R
+:NET "Nova" 318
+:TRP 12100 1093000 275000 318 H 0 3/4
+:CHN "Big Brother Hellas 1" 7505 T
+:CHN "CNBC Europe" 7509 T
+:CHN "National Geographic Channel UK" 7508 T
+:CHN "Nova Cinema" 7503 T
+:CHN "Big Brother Hellas 2" 7501 T
+:CHN "SuperSport Extra" 7530 T
+:CHN "Animal Planet Europe" 7506 T
+:CHN "FilmSat" 7507 T
+:NET "Alpha Digital" 318
+:TRP 12200 1094900 275000 318 V 0 3/4
+:CHN "Alpha Digital promo" 7401 T
+:CHN "Alpha" 7402 T
+:CHN "Alpha Sports 1" 7405 T
+:CHN "Alpha Sports 2" 7406 T
+:CHN "Alpha Cinema 1" 7407 T
+:CHN "Polis TV" 7411 T
+:CHN "Kanali Voulis" 7412 T
+:NET "Stream TV" 64511
+:TRP 9500 1261600 275000 64511 H 0 3/4
+:CHN "Primafila Cinema Sala 1A" 3910 T
+:CHN "Primafila Cinema Sala 1B" 3913 T
+:CHN "Primafila Cinema Sala 1C" 3917 T
+:CHN "Primafila Cinema Sala 1D" 3918 T
+:CHN "Primafila Cinema Sala 2A" 3919 T
+:CHN "Primafila Cinema Sala 2B" 3920 T
+:CHN "Campionato Stream 1" 3921 T
+:CHN "Campionato Stream 2" 3924 T
+:CHN "Campionato Stream 3" 3927 T
+:CHN "Musica Sinfonica" 3935 R
+:CHN "I Classici" 3938 R
+:CHN "Lirica" 3941 R
+:CHN "Classica Barocca" 3944 R
+:CHN "Sinfonica Moderna" 3947 R
+:CHN "Country" 3950 R
+:CHN "New Country" 3953 R
+:CHN "Colonne Sonore" 3956 R
+:CHN "Musicals" 3959 R
+:CHN "Magia Dall'Irlanda" 3962 R
+:CHN "World Music" 3965 R
+:CHN "Suoni dell'India" 3968 R
+:CHN "Les Chansons" 3971 R
+:CHN "Volksmusic" 3974 R
+:CHN "Note d'Arabia" 3977 R
+:CHN "Light Classics & Evergeen" 3980 R
+:CHN "Atmosfera" 3983 R
+:CHN "Classiche Armonie" 3986 R
+:CHN "Hits Extra" 3989 R
+:CHN "Dolci note" 3992 R
+:CHN "New Age & Suoni della Natura" 3995 R
+:NET "Stream TV" 64511
+:TRP 9600 1263500 275000 64511 V 0 3/4
+:CHN "Campionato Stream 4" 4001 T
+:CHN "Campionato Stream 5" 4002 T
+:CHN "Calcio Stream" 4003 T
+:CHN "Primafila Cinema Sala 2C" 4007 T
+:CHN "Primafila Cinema Sala 2D" 4010 T
+:CHN "Primafila Cinema Sala 3A" 4028 T
+:CHN "Primafila Cinema Sala 3B" 4031 T
+:NET "Arabsat" 702
+:TRP 9700 1265400 275000 702 H 0 3/4
+:CHN "[test card]" 10 T
+:CHN "Sharjah TV" 1 T
+:CHN "Qatar Satellite Channel" 2 T
+:CHN "Saudi Channel 1" 3 T
+:CHN "Kuwait Space Channel" 4 T
+:CHN "Jamahirya Satellite Channel" 5 T
+:CHN "Sudan TV" 6 T
+:CHN "Oman TV" 7 T
+:CHN "[test card]" 8 T
+:CHN "Iraq Satellite Channel" 9 T
+:CHN "Sharjah FM" 11 R
+:CHN "Sharjah FM" 21 R
+:CHN "Qatar Radio" 12 R
+:CHN "Main Arabic Program" 13 R
+:CHN "Al-Qur'aan Al-Kareem Radio" 23 R
+:CHN "Main Arabic" 14 R
+:CHN "Sudan Radio" 16 R
+:CHN "Radio Omdurman Holy Koran" 26 R
+:CHN "Oman Radio" 17 R
+:CHN "Izaat Jomhuryat Al-Iraq" 19 R
+:CHN "Izaat Sawt Al-Shabab" 29 R
+:NET "Telespazio" 318
+:TRP 9800 1267300 275000 318 V 0 3/4
+:CHN "Thai TV Global Network" 4201 T
+:CHN "Napoli Network" 4202 T
+:CHN "Studio Europa" 4204 T
+:CHN "Game Network" 4213 T
+:CHN "Video Italia" 4210 T
+:CHN "Elefante Telemarket" 4211 T
+:CHN "Radio Italia Anni '60" 4230 R
+:CHN "Radio Reporter" 4231 R
+:CHN "Radio Italia" 4232 R
+:CHN "Radio Tour" 4233 R
+:CHN "Radio Company" 4234 R
+:CHN "Radio Popolare" 4235 R
+:CHN "DiscoRadio" 4236 R
+:CHN "LifeGate Radio" 4237 R
+:CHN "Radio Italia" 4210 R
+:CHN "TR Buonconsiglio" 4238 R
+:CHN "Radio Radio" 4239 R
+:CHN "Radio Donna" 4240 R
+:CHN "Radio Eurospin" 4241 R
+:CHN "Radio Speranza" 4242 R
+:CHN "Radio Padre Pio" 4244 R
+:CHN "Radio Energy" 4245 R
+:CHN "Radio Kolbe Sat" 4246 R
+:CHN "Radio Zeta" 4248 R
+:NET "AB Sat" 318
+:TRP 9900 1269200 275000 318 H 0 3/4
+:CHN "AB Sat Passions promo" 501 T
+:CHN "Onyx" 502 T
+:CHN "Mangas" 503 T
+:CHN "Encyclopedia" 504 T
+:CHN "Polar" 505 T
+:CHN "Ciné Palace" 506 T
+:CHN "Romance" 507 T
+:CHN "Rire" 508 T
+:CHN "Medya TV" 509 T
+:CHN "AB Sat promo" 511 T
+:CHN "Maurice Radio Libre" 510 R
+:CHN "Grand Radio" 512 R
+:NET "Stream TV" 64511
+:TRP 10000 1271300 275000 64511 V 0 3/4
+:CHN "Primafila Cinema Sala 4A" 4307 T
+:CHN "Primafila Cinema Sala 4B" 4310 T
+:CHN "Primafila Cinema Sala 5" 4313 T
+:CHN "Primafila Cinema Sala 6" 4316 T
+:CHN "Primafila Cinema Sala 7" 4324 T
+:CHN "Primafila Cinema Sala 8" 4327 T
+:CHN "Sport Stream Finestra A" 4331 T
+:CHN "Sport Stream Finestra B" 65280 T 2436 2434 8191
+:NET "Stream TV" 64511
+:TRP 10100 1273100 275000 64511 H 0 3/4
+:CHN "CFN/CNBC Italia" 9409 T
+:CHN "Duel TV" 9415 T
+:CHN "Fox Kids Italia" 9421 T
+:CHN "National Geographic Channel Italy" 9424 T
+:CHN "Comedy Life" 9418 T
+:CHN "Roma Channel" 9427 T
+:SAT "HotBird" 13.0 E
+:NET "Stream TV" 64511
+:TRP 12400 1099200 275000 64511 V 0 3/4
+:CHN "Home Shopping Europe Italia" 8545 T
+:CHN "[Stream TV test card]" 8549 T
+:CHN "MT Channel" 8546 T
+:CHN "Stream Verde" 8547 T
+:CHN "Fox News Channel" 8548 T
+:NET "TPS" 176
+:TRP 12600 1103400 299000 176 V 0 5/6
+:CHN "La Cinquième" 1701 T
+:CHN "TF 1" 1702 T
+:CHN "RFO Sat" 1703 T
+:CHN "Arte Français" 1704 T
+:CHN "M6" 1705 T
+:CHN "Star Academy" 1706 T
+:CHN "Paris Première" 1708 T
+:NET "Deutsche Telekom" 318
+:TRP 12700 1105400 275000 318 H 0 5/6
+:CHN "RTL Deutschland" 8001 T
+:CHN "Vox" 8002 T
+:CHN "Sat. 1 Österreich" 8003 T
+:CHN "RTL 2 Österreich" 8004 T
+:CHN "CNN International Deutschland" 8007 T
+:CHN "NBC Europe" 8008 T
+:CHN "ZDF" 8011 T
+:CHN "K-TV Fernsehen" 8012 T
+:CHN "FAZ 93.6 Berlin" 8005 R
+:CHN "Radio Horeb" 8012 R
+:CHN "Big FM" 8013 R
+:CHN "Party Radio" 8014 R
+:NET "Arte" 177
+:TRP 65028 1106000 65100 177 V 0 5/6
+:CHN "Arte Deutsch" 1 T
+:CHN "Arte Français" 2 T
+:NET " " 318
+:TRP 12900 1109600 275000 318 H 0 3/4
+:CHN "Sparkassen TV" 3717 T
+:CHN "Olisat TV" 3718 T
+:CHN "Sailing Channel" 3719 T
+:CHN "Wella TV" 3710 T
+:CHN "Digitaly" 3704 T
+:CHN "KurdSat" 3701 T
+:CHN "Spice Platinum" 3702 T
+:CHN "Noello" 3714 T
+:NET "TVN" 318
+:TRP 200 1112800 73000 318 H 0 3/4
+:CHN "TVN" 1 T
+:CHN "Big Brother Poland Mosaic" 2 T
+:NET "BBC Prime" 318
+:TRP 3801 1113100 56320 318 V 0 3/4
+:CHN "BBC Prime" 5001 T
+:NET "Deutsche Welle TV" 318
+:TRP 13201 1119600 91000 318 V 0 1/2
+:CHN "Deutsche Welle TV" 5301 T
+:CHN "Deutsche Welle 1" 5302 R
+:CHN "Deutsche Welle 2" 5303 R
+:CHN "Deutsche Welle 4" 5304 R
+:CHN "Deutsche Welle 5" 5305 R
+:CHN "JazzRadio" 5308 R
+:CHN "Deutsche Welle 6" 5309 R
+:NET "Deutsche Telekom" 318
+:TRP 15500 1160400 275000 318 H 0 5/6
+:CHN "Sat. 1 Schweiz" 601 T
+:CHN "TV NRW" 603 T
+:CHN "DeeJay TV" 602 T
+:CHN "ARD Das Erste" 606 T
+:CHN "RTL 2 Schweiz" 609 T
+:CHN "Super RTL Österreich" 610 T
+:CHN "Viva Polska" 611 T
+:CHN "RTL Österreich" 607 T
+:CHN "RTL Schweiz" 608 T
+:CHN "Radio DeeJay" 602 R
+:NET "GlobeCast" 318
+:TRP 15600 1162300 275000 318 V 0 3/4
+:CHN "3ABN" 10701 T
+:CHN "MKTV Sat" 10702 T
+:CHN "Channel X" 10703 T
+:CHN "102.5 Hit Channel" 10704 T
+:CHN "TeleCampione" 10705 T
+:CHN "LifeStyle Channel" 10706 T
+:CHN "TV Romania International" 10707 T
+:CHN "TRT Dish Asia Network" 10708 T
+:CHN "Channel Sun" 10709 T
+:CHN "123 Sat" 10710 T
+:CHN "3ABN Radio" 10701 R
+:CHN "RTL 102.5 Classic" 10750 R
+:CHN "Radio România Actualitati" 10751 R
+:CHN "Radio Romania International Open Radio" 10752 R
+:NET "Bloomberg TV" 318
+:TRP 15700 1164200 275000 318 H 0 3/4
+:CHN "Bloomberg TV Europe" 3 T
+:CHN "Bloomberg TV Deutschland" 4 T
+:CHN "Bloomberg TV UK" 5 T
+:CHN "Sat 7" 6 T
+:CHN "Quantum 24" 7 T
+:CHN "TWR - Trans World Radio" 66 R
+:NET "TPS" 176
+:TRP 15800 1166200 275000 176 V 0 3/4
+:CHN "Multivision 1" 1301 T
+:CHN "Multivision 2" 1302 T
+:CHN "Multivision 3" 1303 T
+:CHN "Multivision 4" 1304 T
+:CHN "Multivision 5" 1305 T
+:CHN "Multivision 6" 1306 T
+:CHN "Multivision 7" 1307 T
+:NET "AB Sat" 318
+:TRP 15900 1168100 275000 318 H 0 3/4
+:CHN "AB 1" 201 T
+:CHN "AB Moteurs" 202 T
+:CHN "Animaux" 203 T
+:CHN "Chasse & Pêche" 204 T
+:CHN "AB Moteurs" 205 T
+:CHN "Musique Classique" 206 T
+:CHN "Escales" 207 T
+:CHN "La Chaîne Histoire" 208 T
+:CHN "RFM TV" 209 T
+:CHN "Action" 210 T
+:NET "HRT" 318
+:TRP 9000 1252000 275000 318 V 0 3/4
+:CHN "HRT TV 1" 8301 T
+:CHN "HRT TV 2" 8302 T
+:CHN "HRT TV 3" 8303 T
+:CHN "TuscanySat promo" 8308 T
+:CHN "Liguria Sat" 8311 T
+:CHN "Sicilia International" 8309 T
+:CHN "Sardegna Uno Sat" 8310 T
+:CHN "EuroMed" 8312 T
+:CHN "Videolina" 8318 T
+:CHN "Otvoreni Radio" 8319 R
+:CHN "HRT HR 1" 8305 R
+:CHN "HRT HR 2" 8306 R
+:CHN "HRT HR 3" 8307 R
+:CHN "HR International" 8304 R
+:CHN "Radiolina" 8318 R
+:NET "Eutelsat Skyplex" 318
+:TRP 9100 1253900 275000 318 H 0 3/4
+:CHN "Mediolanum Channel" 8987 T
+:CHN "TV Bulgaria" 8827 T
+:CHN "Monte Carlo Sat" 8877 T
+:CHN "Horizont" 8828 R
+:NET "EuroSport" 319
+:TRP 9200 1255800 275000 319 V 0 3/4
+:CHN "Q Magazine promo" 9281 T
+:CHN "EuroSport" 9352 T
+:CHN "EuroSport News" 9362 T
+:CHN "CNES tests" 9252 T
+:CHN "24 ore" 9372 T
+:CHN "Radio 24" 9375 R
+:NET "TVN" 4194
+:TRP 65041 1257300 56320 4194 H 0 3/4
+:CHN "TVN" 1 T
+:NET "APTN Middle East" 65067
+:TRP 65042 1258100 56320 65067 H 0 3/4
+:CHN "APTN Middle East" 1 T
+:NET "GlobeCast" 318
+:TRP 9400 1259700 275000 318 V 0 3/4
+:CHN "MBC Europe" 8201 T
+:CHN "ANN - Arab News Network" 8202 T
+:CHN "BBC World" 8204 T
+:CHN "BET International" 8208 T
+:CHN "CNN International Europe" 8209 T
+:CHN "JSTV - Japan Satellite TV" 8213 T
+:CHN "JSTV promo" 8214 T
+:CHN "EuroNews" 8211 T
+:CHN "MBC FM" 8201 R
+:CHN "CNN Radio" 8209 R
+:CHN "WRN EuroMix" 8215 R
+:CHN "WRN EuroMax English" 8216 R
+:CHN "WRN EuroMax Deutsch" 8217 R
+:CHN "WRN EuroMax Français" 8218 R
+:CHN "Radio Voyager" 8220 R
+:CHN "The Overcomer" 8221 R
+:CHN "RCI 2" 8222 R
+:CHN "RCI 1" 8223 R
+:CHN "RTÉ Radio 1" 8224 R
+:CHN "Radio Sweden" 8225 R
+:CHN "Radio Sedaye Iran" 8226 R
+:CHN "NPR Worldwide" 8227 R
+:CHN "Voice of Russian Jewry" 8228 R
+:CHN "WRN music tests" 8229 R
+:CHN "WRN 1 Africa & Middle East" 8230 R
+:SAT "Sirius" 5.0 E
+:NET "Viasat" 86
+:TRP 8 1180400 275000 86 H 0 3/4
+:CHN "Ticket Barker Channel" 6000 T
+:CHN "Ticket 1" 6010 T
+:CHN "Ticket 2" 6020 T
+:CHN "Ticket 3" 6030 T
+:CHN "Ticket 4" 6040 T
+:CHN "[Ticket 5 test card]" 6050 T
+:CHN "[Ticket 6 test card]" 6060 T
+:CHN "[Ticket 7 test card]" 6070 T
+:NET "Viasat" 86
+:TRP 9 1182300 275000 86 V 0 3/4
+:CHN "DR 1" 7010 T
+:CHN "DR 2" 7020 T
+:CHN "TV 8" 7030 T
+:CHN "CNN International Europe" 7040 T
+:CHN "PIN - Product Information Network" 7060 T
+:CHN "DR P1" 7210 R
+:CHN "DR P3" 7212 R
+:CHN "DR Klassisk" 7214 R
+:NET "Viasat" 86
+:TRP 7 1188100 275000 86 H 0 3/4
+:CHN "TV 3 Latvia" 5000 T
+:CHN "ORT Estonia" 5020 T
+:CHN "ORT Lithuania" 5030 T
+:CHN "[Viasat test card]" 5040 T
+:CHN "Travel" 5050 T
+:NET "Viasat" 86
+:TRP 4 1197700 275000 86 V 0 3/4
+:CHN "Viasat Sport" 2100 T
+:CHN "Nickelodeon Scandinavia" 2110 T
+:CHN "BBC World" 2120 T
+:CHN " 3+" 2130 T
+:CHN "Hallmark Channel Scandilux" 2140 T
+:CHN "MTV Nordic" 2150 T
+:CHN "Viasat Plus" 2160 T
+:CHN "Club/Dance" 2214 R
+:CHN "Golden Oldies" 2216 R
+:CHN "Jazz" 2218 R
+:CHN "Rock" 2220 R
+:CHN "Classic" 2222 R
+:CHN "Disco" 2224 R
+:CHN "Easy" 2226 R
+:CHN "Soul R&B" 2228 R
+:CHN "Star FM" 2230 R
+:CHN "Super 80's" 2232 R
+:CHN "P4 - Radio Hele Norge" 2234 R
+:NET "Viasat" 86
+:TRP 6 1199600 275000 86 H 0 3/4
+:CHN "Viasat Xtra TV 3 Danmark" 4000 T
+:CHN "Viasat Xtra TV 3 Sverige" 4010 T
+:CHN "Viasat Xtra TV 3 Norge" 4020 T
+:CHN "Viasat Xtra 3+" 4030 T
+:CHN "Viasat Sport Xtra" 4040 T
+:NET "Viasat" 86
+:TRP 5 1203400 275000 86 H 0 3/4
+:CHN "TV 1000 2" 3100 T
+:CHN "TV 1000 3" 3110 T
+:CHN "Cinema 2" 3120 T
+:CHN "Cinema 3" 3130 T
+:CHN "RTL Deutschland" 3140 T
+:CHN "VH 1 European" 3160 T
+:CHN "TV 1000 Baltic" 3170 T
+:NET "Viasat" 86
+:TRP 3 1205400 275000 86 V 0 3/4
+:CHN "TV 3 Sverige" 1100 T
+:CHN "TV 3 Norge" 1110 T
+:CHN "TV 3 Danmark" 1120 T
+:CHN "TV 1000 1" 1140 T
+:CHN "Cinema 1" 1150 T
+:CHN "Z TV" 1160 T
+:CHN "Power Hit Radio" 1210 R
+:CHN "Rix FM" 1212 R
+:SAT "Sirius" 4.8 E
+:NET "Ukrainian mux" 85
+:TRP 12 1176600 275000 85 H 0 3/4
+:CHN "Inter" 1 T
+:CHN "Enter" 2 T
+:NET "Merlin" 65071
+:TRP 65026 1211100 271950 65071 H 0 3/4
+:CHN "13th Street" 1 T
+:CHN "Studio Universal" 2 T
+:CHN "AWR 2" 10 R
+:CHN "AWR 1" 12 R
+:CHN "Tamil Broadcasting" 13 R
+:NET "NSAB" 85
+:TRP 1 1224500 275000 85 V 0 7/8
+:CHN "[NSAB test card]" 3 T
+:CHN "SVT 1" 10001 T
+:CHN "SVT 2" 10002 T
+:CHN "SVT 24" 10003 T
+:CHN "Radio Sweden" 1 R
+:NET "Specifique promo" 65071
+:TRP 3 1228400 275000 65071 V 0 3/4
+:CHN "Specifique promo" 200 T
+:NET "NTL" 65071
+:TRP 65029 1230300 255480 65071 H 0 7/8
+:CHN "QVC UK" 10 T
+:CHN "Asianet 1" 11 T
+:CHN "IBC Tamil Radio" 212 R
+:NET "SISLink" 65071
+:TRP 100 1234100 200000 65071 H 0 3/4
+:CHN "SIS Intertrack Greyhound Racing" 70 T
+:NET "NSAB" 85
+:TRP 2 1238000 275000 85 H 0 3/4
+:CHN "SVT Europa" 1 T
+:CHN "TV Chile" 9 T
+:CHN "TV Chile" 209 T
+:CHN "NTV" 10 T
+:CHN "[TV 6 Moskva info card]" 211 T
+:CHN "Viasat 3" 28 T
+:CHN "ORT International" 25 T
+:CHN "Radio Sweden" 2 R
+:NET "NTL" 65071
+:TRP 65032 1241800 255400 65071 H 0 7/8
+:CHN "[NTL test card]" 11 T
+:NET "Kingston inmedia" 65071
+:TRP 65033 1245300 180560 65071 H 0 3/4
+:CHN "[test card]" 1 T
+:CHN "The Global Draw" 2 T
+:CHN "Fantastic" 3 T
+:CHN "B4U Movies UAE" 4 T
+:CHN "Lucent Business TV" 10 T
+:CHN "Playboy TV" 5 T
+:CHN "Virgin Radio" 6 R
+:NET "Enter" 65071
+:TRP 2 1263000 36170 65071 H 0 3/4
+:CHN "Enter" 1001 T
+:NET "ICTV" 65071
+:TRP 65035 1263300 36430 65071 V 0 7/8
+:CHN "ICTV" 1 T
+:NET "TV Puls" 65071
+:TRP 65036 1264000 40000 65071 V 0 3/4
+:CHN "TV Puls" 1 T
+:NET "TV Niepokalanów II" 65071
+:TRP 65037 1264400 32000 65071 V 0 3/4
+:CHN "TV Niepokalanów II" 1 T
+:NET "TET" 65071
+:TRP 65038 1264900 39770 65071 V 0 3/4
+:CHN "TET" 1 T
+:NET "Realitatea TV" 177
+:TRP 65039 1268600 34000 177 H 0 3/4
+:CHN "Realitatea TV" 1 T
+:NET "Novy Kanal" 511
+:TRP 65040 1269000 39800 511 V 0 3/4
+:CHN "Novy Kanal" 2 T
+:SAT "Thor" 0.8 W
+:NET "Canal Digital" 70
+:TRP 4 1122900 245000 70 H 0 7/8
+:CHN "MTV Nordic" 205 T
+:CHN "CNN International Europe" 202 T
+:CHN "[Telenor UK test card]" 409 T
+:CHN "Discovery Channel Europe" 406 T
+:CHN "Animal Planet Europe" 407 T
+:CHN "Discovery Channel Danmark" 412 T
+:NET "Telenor" 70
+:TRP 1 1124700 245000 70 V 0 7/8
+:CHN "DR 1" 3 T
+:CHN "TV 2" 4 T
+:CHN "SVT 1" 1 T
+:CHN "SVT 2" 2 T
+:CHN "NRK 1" 5 T
+:CHN "Telenor Info Channel" 108 T
+:CHN "P4 - Radio Hele Norge" 118 R
+:CHN "Scandinavian Satellite Radio" 65280 R 8191 676 8191
+:CHN "Radio Nettverk 1" 114 R
+:NET "Canal Digital" 70
+:TRP 3 1127800 245000 70 V 0 7/8
+:CHN "Canal + Gul" 301 T
+:CHN "Canal + Sverige" 302 T
+:CHN "Canal + Finland" 305 T
+:CHN "Canal + Danmark" 307 T
+:CHN "Canal + Blå" 308 T
+:CHN "Canal + Norge" 306 T
+:CHN "Nelonen" 304 T
+:CHN "Canal + Zap" 309 T
+:NET "Canal Digital" 70
+:TRP 2 1130900 245000 70 V 0 7/8
+:CHN "CNBC Nordic" 201 T
+:CHN "TCM Nordic" 401 T
+:CHN "VH 1 European" 204 T
+:CHN "Cartoon Network Nordic" 402 T
+:CHN "Kanal 5" 403 T
+:CHN "CNBC Nordic" 906 T
+:CHN "Hallmark Channel Scandilux" 303 T
+:CHN "Fox Kids Nordic" 408 T
+:CHN "TV Danmark 1" 229 T
+:NET "Canal Digital" 70
+:TRP 7 1137200 245000 70 V 0 7/8
+:CHN "Kiosk 1" 701 T
+:CHN "Kiosk 2" 702 T
+:CHN "Kiosk 3" 703 T
+:CHN "Kiosk 4" 704 T
+:CHN "Kiosk 5" 705 T
+:CHN "Kiosk 6" 706 T
+:CHN "Kiosk 7" 707 T
+:CHN "Kiosk 8" 708 T
+:CHN "Kiosk 9" 709 T
+:CHN "Kiosk 10" 710 T
+:CHN "Kiosk 11" 711 T
+:NET "Canal Digital" 70
+:TRP 8 1140300 245000 70 V 0 7/8
+:CHN "Kiosk 13" 801 T
+:CHN "Kiosk 14" 802 T
+:CHN "Kiosk 15" 803 T
+:CHN "Kiosk 16" 804 T
+:CHN "Kiosk 17" 805 T
+:CHN "Kiosk 18" 806 T
+:CHN "Kiosk 19" 807 T
+:CHN "Kiosk 20" 808 T
+:CHN "Kiosk 21" 809 T
+:CHN "Kiosk 22" 810 T
+:CHN "Kiosk 12" 712 T
+:SAT "Thor" 0.8 W
+:NET "Bulgarian mux" 70
+:TRP 19 1216900 280000 70 H 0 7/8
+:CHN "M Sat" 1902 T
+:CHN "Diema +" 1903 T
+:CHN "Den TV" 1905 T
+:CHN "Kanal 3" 1906 T
+:CHN "Evrokom" 1907 T
+:CHN "Radio Plus" 1910 R
+:CHN "Radio City" 1911 R
+:CHN "BG Radio" 1912 R
+:CHN "Radio Retro" 1913 R
+:NET "Canal Digital" 70
+:TRP 18 1222600 280000 70 V 0 7/8
+:CHN "NRK International" 501 T
+:CHN "TV Finland" 502 T
+:CHN "NRK MHP tests" 1750 T
+:CHN "Radio Finland" 503 R
+:CHN "Radio Suomi" 506 R
+:CHN "NRK Europakanalen" 510 R
+:CHN "NRK Alltid Nyheter" 511 R
+:NET "Canal Digital" 70
+:TRP 16 1230300 278000 70 V 0 3/4
+:CHN "Manchester United TV" 1601 T
+:CHN "MTV 3" 1614 T
+:CHN "Ciné Cinémas Nordic" 1604 T
+:CHN "EuroSport News" 1608 T
+:CHN "The Adult Channel" 227 T
+:CHN "Style" 1609 T
+:CHN "eTV Skandinavien" 1615 T
+:NET "Canal Digital" 70
+:TRP 15 1232200 278000 70 H 0 3/4
+:CHN "NRK 1" 1501 T
+:CHN "NRK 2" 1502 T
+:CHN "TV 2" 1508 T
+:CHN "TV Norge" 1509 T
+:CHN "NRK 1 Tegnspråk" 1516 T
+:CHN "Rikstoto Direkte" 1511 T
+:CHN "NRK P1 - Norgeskanalen" 1503 R
+:CHN "NRK P2 - Kulturkanalen" 1504 R
+:CHN "NRK Petre" 1505 R
+:CHN "NRK Alltid Klassisk" 1507 R
+:CHN "NRK Sámi Radio" 1510 R
+:CHN "NRK Stortinget promo" 1514 R
+:CHN "NRK mPetre" 1515 R
+:NET "Canal Digital" 70
+:TRP 10 1245600 280000 70 V 0 3/4
+:CHN "Nickelodeon Scandinavia" 206 T
+:CHN "Sky News" 1013 T
+:CHN "Discovery Civilisation" 1014 T
+:CHN "Discovery Sci-Trek" 1015 T
+:CHN "Discovery Travel & Adventure" 1016 T
+:CHN "Metropol" 1012 T
+:CHN "National Geographic Adventure 1" 1802 T
+:CHN "Hit List" 207 R
+:CHN "Classic Rock" 208 R
+:CHN "Hard Rock" 209 R
+:CHN "Old Gold" 210 R
+:CHN "Dance" 211 R
+:CHN "Progressive Rock" 212 R
+:CHN "Soul Classics" 213 R
+:CHN "Reggae" 214 R
+:CHN "Jazz" 215 R
+:CHN "Country" 216 R
+:CHN "Blues" 217 R
+:CHN "Classical Favourites" 218 R
+:CHN "Orchestral Works" 219 R
+:CHN "Baroque & Early Music" 220 R
+:CHN "Opera & Vocal works" 221 R
+:CHN "Easy Listening" 222 R
+:CHN "New Age/Moods" 223 R
+:CHN "Bella Italia" 224 R
+:CHN "Türk Müsigi" 225 R
+:CHN "Hitkanal Norden" 226 R
+:NET "Canal Digital" 70
+:TRP 21 1247600 278000 70 H 0 3/4
+:CHN "TV 4" 1602 T
+:CHN "EuroSport" 905 T
+:CHN "K-World" 1606 T
+:CHN "Urheilukanava" 2102 T
+:CHN "Radio City 105.9" 2101 R
+:SAT "Intelsat 707 (C)" 1.0 W
+:NET "Deutsche Welle TV" 65075
+:TRP 65025 391200 80220 65075 R 0 1/2
+:CHN "Deutsche Welle TV" 1 T
+:CHN "Deutsche Welle 1" 2 R
+:CHN "Deutsche Welle 2" 3 R
+:CHN "Deutsche Welle 8" 4 R
+:CHN "Radio Finland" 5 R
+:CHN "WRN 1 Africa & Middle East" 6 R
+:CHN "Radio Nederland Wereldomroep International" 7 R
+:CHN "RCI - Radio Canada International" 8 R
+:CHN "SRI Français/Italiano" 9 R
+:CHN "RFI Musique" 10 R
+:CHN "Radio Suomi" 11 R
+:CHN "SRI Intercontinental" 12 R
+:CHN "Deutsche Welle 9" 13 R
+:CHN "Deutsche Welle 6" 14 R
+:CHN "Deutsche Welle 4" 15 R
+:CHN "Deutsche Welle 5" 16 R
+:NET "ERTU" 9
+:TRP 3 418000 270000 9 L 0 3/4
+:CHN "ESC 1" 2 T
+:CHN "Nile Drama" 4 T
+:CHN "ESC 2" 3 T
+:CHN "Nile TV International" 1 T
+:CHN "El Quran Karim" 65280 R 8191 38 8191
+:SAT "Thor" 1.0 W
+:NET "MTG" 65075
+:TRP 65027 1097400 90000 65075 V 0 7/8
+:CHN " 3+" 1 T
+:CHN "Z TV" 2 T
+:NET "Israeli mux" 4369
+:TRP 65028 1099500 100000 4369 V 0 3/4
+:CHN "Channel 26" 20 T
+:NET "Canal Digital" 70
+:TRP 9 1101400 260000 70 H 0 3/4
+:CHN "Prime TV" 908 T
+:CHN "Private Gold" 605 T
+:CHN "Radio Nettverk 1" 910 R
+:CHN "Radio Nettverk 2" 911 R
+:CHN "Scandinavian Satellite Radio" 917 R
+:NET "Ofek" 65075
+:TRP 65030 1102900 28160 65075 V 0 3/4
+:CHN "Ofek New" 65280 T 512 650 8191
+:CHN "Ofek Old" 65280 T 513 651 8191
+:NET "Coloursat" 70
+:TRP 5 1117400 225000 70 H 0 2/3
+:CHN "CCTV 4" 518 T
+:CHN "CCTV 9" 519 T
+:NET "SMS - Satellite Media Services" 65075
+:TRP 3 1145900 31490 65075 H 0 3/4
+:CHN "IRN - Independent Radio News" 12 R
+:CHN "SMS Mono 2 tests" 17 R
+:CHN "SMS Commercials Channel" 18 R
+:CHN "SMS Programmes Channel" 19 R
+:CHN "SMS Stereo 3" 32 R
+:NET "TotoLine" 65075
+:TRP 65033 1152700 42030 65075 H 0 2/3
+:CHN "TotoLine" 1 T
+:NET "Slovakian mux" 70
+:TRP 11 1154000 260000 70 V 0 3/4
+:CHN "TA 3" 1108 T
+:CHN "BBC Prime" 1103 T
+:CHN "BBC World" 1001 T
+:CHN "TV Global" 1104 T
+:CHN "Slovensko 1" 1106 R
+:CHN "Rádio Devín" 1107 R
+:NET "Danish mux" 70
+:TRP 6 1155300 260000 70 H 0 3/4
+:CHN "DR 1" 601 T
+:CHN "DR 2" 602 T
+:CHN "DK 4" 603 T
+:CHN "TV Danmark 2" 902 T
+:CHN "TV 2 Zulu" 611 T
+:CHN "Radio 2" 604 R
+:CHN "DR Klassisk" 606 R
+:CHN "DR P1" 607 R
+:CHN "DR P3" 608 R
+:CHN "The Voice" 612 R
+:CHN "Pop FM" 65280 R 8191 655 8191
+:NET "Mreza Plus" 65075
+:TRP 65036 1161900 29420 65075 V 0 3/4
+:CHN "Mreza Plus" 1 T
+:NET "Finnish mux" 65075
+:TRP 65037 1163000 80540 65075 V 0 7/8
+:CHN "Nelonen" 1 T
+:CHN "TV Finland" 2 T
+:CHN "Radio Finland" 3 R
+:CHN "Radio Suomi" 4 R
+:CHN "Radio Extrem" 5 R
+:NET "Dantoto Racing" 255
+:TRP 65038 1163900 42020 255 V 0 2/3
+:CHN "Dantoto Racing" 1 T
+:NET "Canal Digital" 70
+:TRP 20 1167700 260000 70 H 0 3/4
+:CHN "NRK International" 501 T
+:CHN "TV Finland" 502 T
+:CHN "TV Bio +" 610 T
+:CHN "Dantoto Racing" 2001 T
+:CHN "Big Brother Danmark 1" 2003 T
+:CHN "Big Brother Danmark 2" 2004 T
+:CHN "Big Brother Danmark 3" 2005 T
+:CHN "Radio Finland" 503 R
+:CHN "Radio Suomi" 506 R
+:CHN "NRK Europakanalen" 510 R
+:CHN "NRK Alltid Nyheter" 511 R
+:NET "Finnish mux" 65075
+:TRP 65040 1168600 110170 65075 V 0 3/4
+:CHN "Sub TV" 1 T
+:CHN "MTV 3" 2 T
+:CHN "Urheilukanava" 3 T
+:END

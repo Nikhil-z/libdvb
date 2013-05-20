@@ -1,0 +1,7 @@
+#!/bin/sh
+
+for f in $@
+do /usr/bin/convert  -geometry 702x576 $f test.mpg
+./show_dvb_image test.mpg 10 
+rm test.mpg
+done

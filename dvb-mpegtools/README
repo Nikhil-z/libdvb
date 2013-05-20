@@ -1,0 +1,223 @@
+DVB-MPEGTOOLS
+
+are a variety of tools that transform between various MPEG stream formats
+
+The main program is called dvb-mpegtools. This is never called directly,
+but always through links. The program recognizes the link name and
+acts accordingly.
+
+For installation in /usr/local/bin type "make install", to delete 
+"make uninstall"
+
+A call with <progname> -h should give you usage information.
+
+Here is a short description of the functions:
+
+get_http
+opens an URL and puts the stream out on STDOUT. It was created to be
+used with ffserver and is not really an dvb-mpegtool. You can use it to
+view a divx stream (or any other stream) encoded by ffmpeg on your
+notebook via wavelan. Just use mplayer like this: 
+get_http http://mymachine:8090/test.avi | mplayer -
+usage: get_http <URL>
+
+streamtype
+tries to recognize the stream type and gives information about the stream.
+usage: streamtype <filename>
+or     streamtype < <filename> (or pipe)
+
+ts2ps
+ts2pes
+transforms a transport stream (TS) into an MPEG2 program stream (PS)
+or into a stream of multiplexed PES.
+You have to know the audio and video PIDs.
+usage: ts2ps <filename> <PID1> <PID2>
+or     ts2ps <PID1> <PID2> < <filename> (or pipe)
+
+pes2aud
+pes2vid
+pes2aud_es
+pes2vid_es
+All these programs extract audio or video streams from PES or PS
+streams depending on their respective names. The _es part of the name
+indicates that elementary streams are extracted in contrast to PES
+streams. Try for example pes2vid_es my.mpg | mpeg2dec. (mpeg2dec can
+be found on http://www.linuxvideo.org/mpeg2dec/. The optional id gives
+the id of the desired video or audio stream in hex, (default c0 for
+audio, e0 for video).
+usage: pes2xxx(_es) <filename> [id]
+or pes2xxx(_es) < <filename> [id] (or pipe)
+
+extract_pes 
+extract_pes_payload
+As the generalization of the ones above these programs extract the PES
+or the payload of PES with a given id (in HEX).
+usage: extract_pes(_payload) <filename> <ID> 
+or extract_pes(_payload) <ID> < <filename>
+
+tspids	
+returns all the PIDs contained in a TS.
+usage: tspids <filename>
+
+pes2ts
+turns a video or audio PES (not muxed) into TS the PID is 0xa0.
+usage: pes2ts <filename>
+or pes2ts < <filename> (or pipe)
+	
+pes2ts2
+transforms a PES stream  into a TS (muxed).
+You have to give the audio and video PIDs.
+usage: pes2ts2 <filename> <audio  PID> <video PID>
+or pes2ts2 < <filename> <audio  PID> <video PID> (or pipe)
+
+analyze	
+gives some information about a PS/PES stream and all the packets
+contained therein.
+usage: analyze <filename>
+or analyze < <filename> (or pipe)
+
+pes_demux	
+es_demux
+demuxes a PS/PES into separate audio and video streams. pes_demux
+returns demuxed PES and es_demux returns demuxed ES.
+usage: (p)es_demux <filename> <audioout> <videoout>
+or (p)es_demux <audioout> <videoout> < <filename>  (or pipe)
+
+ts_demux	
+demuxes a TS into PES. Audio is written to STDERR and video to STDOUT.
+It takes the first audio and video PIDs it finds.
+usage: ts_demux <filename>
+or ts_demux < <filename>
+
+ts_es_demux	
+demuxes a TS into PES. Audio is written to STDERR and video to STDOUT.
+It takes the first audio and video PIDs it finds.
+usage: ts_es_demux <filename> <audio_out> <video_out>
+or ts_es_demux <audio_out> <video_out> < <filename> 
+
+ts2es	
+demuxes a TS into ES, but only for the given PID.
+usage: ts2es <filename> <PID> 
+or ts2es <PID> < <filename> 
+
+pesplot	
+returns the audio and video PTS of the PES packets in a gnuplot
+plotable format.
+usage: pesplot <filename>
+or pesplot < <filename>
+
+pes_repack
+repacks your PES packets into smaller sizes. (Well, also into larger
+ones with stuffing bytes and/or packets). 
+usage: pes_repack <filename> <packet size> 
+or     pes_repack < <filename> <packet size> (or pipe) 
+
+change_aspect_1_1
+change_aspect_4_3
+change_aspect_16_9
+change_aspect_221_1
+changes the aspect ratio information in the MPEG video stream.
+usage: change_aspect_xxx <filename> 
+
+insert_pat_pmt
+tries to determine the audio and video PID in a TS without PAT and PMT and then 
+inserts the appropriate sections.
+usage: insert_pat_pmt <filename>
+or     insert_pat_pmt < <filename> (or pipe)
+
+ 
+mplex
+the main part of mplex is a rewrite of the multiplexing routines of bbmpeg, 
+which originally were taken from the mplex program written by Christoph Moar.
+I just added a demultiplexer, so that you can call mplex with a multiplexed 
+file which will then be remuxed.
+usage: mplex [options] <input file>
+for options see mplex -h.
+
+dvbaudio
+sets the pid and opens the dvr device of a DVB card to extract an audio stream 
+as elementary stream. You may need to set the include path for the DVB API header 
+files in the Makefile and the include path for dmx.h in dvbaudio.c.
+Since this tool is the only one that needs non standard includes, you will have to use
+"make dvbaudio" to build it.
+
+usage: dvbaudio [options] <pid>
+options:
+--help,     -h         show this message
+--adapter,  -a  <nb>   set adapter number (default 0)
+--demux,    -d  <dmx>  set demux (default 0)
+--dvr,      -v  <dvr>  set dvr (default 0)
+--frontend, -e  <fend> set frontend (default 0)
+--freq,     -f  <freq> set frequency (default 0 = no tune)
+--pol,      -p  <pol>  set polarisation (V or H)
+--srate,    -s  <sr>   set signal rate
+--fec,      -c  <fec>  set FEC (default auto)
+--sat,      -t  <sat>  set diseqc nb. (default no diseqc)
+
+audiofilter
+filters all audio streams out of a VOB except for one, e.g. 
+audiofilter -i matrix.vob -o newmatrix.vob -a 0xbd -s 0x81 
+leaves you with a VOB that has only the second AC3 audio stream.
+
+usage: audiofilter --pid <pid> [options] 
+options:
+--help,     -h              show this message
+--infile,   -i  <filename>  input (default=stdin)
+--outfile,  -o  <filename>  output (default=stdin)
+--id,       -a  <id>        audio id (defualt=0xc0)
+--subid,    -s  <subid>     subid for privat stream (e.g. 0x80 for first AC3)
+
+
+show_dvb_image and dia
+shows an I-FRAME for a given amount of seconds
+
+usage: show_dvb_image <filename> [secs]
+default is 3 seconds
+You can use the dia script for a slideshow of JPGs if you have 
+ImageMagick and mpeg2encode installed. 
+
+
+
+
+Some information about the different stream types:
+
+1) Elementary stream (ES): 
+	is the stream that contains the actual compressed
+      	audio and video data, like I, P, B-Frames
+       	etc., with respective headers and some
+       	other information.
+
+2) Packetized elementary stream (PES): 
+	is composed of Packets containing ES data. The packets have
+        headers, that specify the respective ES data, like
+        0x000001E0 for the first video stream. The header also
+        holds the packet length and stuff like the PTS. 
+
+3) Program Stream (PS): 
+	mainly contains PES packets with some
+        additional packets containing some more
+        information for the decoder, like the SCR,
+        buffer sizes and mux rates. PSs are used by
+        DVDs and distributed .vob files.
+
+4) Transport Stream (TS): 
+        is composed of packets that all have the
+        same size (188bytes). They all start with 0x47.
+        The packets are identified by their PID.
+        Some of them contain audio and video data
+        in the form of PES packets which are spread
+        over many packets of size 188 bytes. Other
+        packets contain sections which contain various
+        things like the PMT, the PAT or videotext
+        data. A TS is meant for transporting data
+        over networks. 
+
+5) AV_PES: 
+	is the format used by the Siemens (Technotrend) DVB card internally.
+        The audio AV_PES packets contain audio PES packets with a
+        header that tells you wether there is a PTS in the
+        packet. The video packets are video PES packets without the
+        PES header (that really means the are ES streams) with a
+        header that may contain a PTS. The data originally comes
+        from a TS, but has already been processed by the decoder
+        and is read from the decoders buffer.
